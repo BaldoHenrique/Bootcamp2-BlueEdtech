@@ -1,0 +1,605 @@
+{
+  "data": [
+    {
+      "edit_history_tweet_ids": ["1237716573475004416"],
+      "conversation_id": "1237716573475004416",
+      "author_id": "28434589",
+      "geo": { "place_id": "0385e3cb7a5001dd" },
+      "id": "1237716573475004416",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "SiriusXM dedica un canal exclusivo (vía satélite y streaming) para transmitir información sobre el covid-19. @FMRE_MEXICO @SWLingDotCom  #siriusxm #satelliteradio #CODVID19 #COVID2019 #covid19 #COVID19mx #COVID19mexico  https://t.co/gpfU8eTHO3",
+      "created_at": "2020-03-11T12:26:41.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237699079053991936"],
+      "conversation_id": "1237699079053991936",
+      "author_id": "14236397",
+      "geo": { "place_id": "609d1bbc180f1434" },
+      "id": "1237699079053991936",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "Sígueme para este y más consejos de salud. \n\n#coronavirus #Coronavid19 #COVID19 #Covid_19 https://t.co/H8mVyCVDCe",
+      "created_at": "2020-03-11T11:17:10.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237663688062054400"],
+      "conversation_id": "1237663688062054400",
+      "author_id": "4059734892",
+      "geo": { "place_id": "7807880b17af73d8" },
+      "id": "1237663688062054400",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 0
+      },
+      "text": "Drexler no pudo dar un concierto en Costa Rica por aquello del Covid-19.\nSu respuesta fue hacer un concierto (con sonidistas profesionales y cambio de guitarras y todo) por ig y fb live...\nDuró como dos horas...\nEs HERMOSO.",
+      "created_at": "2020-03-11T08:56:32.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237619290708176896"],
+      "conversation_id": "1237619290708176896",
+      "author_id": "235886116",
+      "geo": { "place_id": "373c6c575cd2601b" },
+      "id": "1237619290708176896",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "What countries have been affected by the novel coronavirus known as COVID-19? How many cases are there in China? https://t.co/9dn6DWfg3H vía @ChannelNewsAsia",
+      "created_at": "2020-03-11T06:00:07.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237617795174526977"],
+      "conversation_id": "1237617795174526977",
+      "author_id": "104574454",
+      "geo": { "place_id": "63b42cf9e0b05dad" },
+      "id": "1237617795174526977",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "Dejen de estar viajando al continente europeo que nos invaden de Covid-19 tan bonito que está Xochimilco y sus alrededores caray",
+      "created_at": "2020-03-11T05:54:10.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237606876432326658"],
+      "conversation_id": "1237606876432326658",
+      "author_id": "328241148",
+      "geo": { "place_id": "35b07b8fa46547c5" },
+      "id": "1237606876432326658",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "What countries have been affected by the novel coronavirus known as COVID-19? How many cases are there in China? https://t.co/KGJkD7VWUZ vía @ChannelNewsAsia Cc @SOYCarlosMota",
+      "created_at": "2020-03-11T05:10:47.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237602393891602438"],
+      "conversation_id": "1237602393891602438",
+      "author_id": "541474827",
+      "geo": { "place_id": "8b16d56e258b0278" },
+      "id": "1237602393891602438",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "Confirman primer caso de #coronavirus en #Puebla; es un hombre que viajó a Italia\nSe trata de un hombre de 47 años de edad, de nacionalidad alemana, que dio positivo a las pruebas del #Covid-19\nhttps://t.co/XOHuTKOz4f",
+      "created_at": "2020-03-11T04:52:58.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237601924385370112"],
+      "conversation_id": "1237601924385370112",
+      "author_id": "736174695364452353",
+      "geo": { "place_id": "7d93122509633720" },
+      "id": "1237601924385370112",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "Stanford Medicine COVID-19 test now in use https://t.co/9uW4tcTG0v",
+      "created_at": "2020-03-11T04:51:06.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237592551835627520"],
+      "conversation_id": "1237592551835627520",
+      "author_id": "84536443",
+      "geo": { "place_id": "0ac8a42f23e8f736" },
+      "id": "1237592551835627520",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "Señores, se confirma el 1er caso de #Covid-19 en #Puebla México.\n\nhttps://t.co/XWROKDF4A3",
+      "created_at": "2020-03-11T04:13:52.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237589434662445058"],
+      "conversation_id": "1237589434662445058",
+      "author_id": "204433675",
+      "geo": { "place_id": "7e7899787953bfcb" },
+      "id": "1237589434662445058",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "text": "Asi nuestras autoridades con los pasajeros de #Alitalia en el #AICM “Oiga y usted tiene Covid-19? https://t.co/QBf5Dj3NKe",
+      "created_at": "2020-03-11T04:01:29.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237585677362987008"],
+      "conversation_id": "1237585677362987008",
+      "author_id": "177357892",
+      "geo": { "place_id": "d3492c68c5661201" },
+      "id": "1237585677362987008",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "Aterriza en AICM vuelo proveniente de Italia; revisan síntomas de Covid-19 https://t.co/seQ2noNTsk vía @LaRazon_mx",
+      "created_at": "2020-03-11T03:46:33.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237581038492086273"],
+      "conversation_id": "1237581038492086273",
+      "author_id": "129365279",
+      "geo": { "place_id": "0ac8a42f23e8f736" },
+      "id": "1237581038492086273",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "🚨Alerta🚨 confirma @SaludGobPue primer caso de Coronavirus Covid-19 en Puebla. Exhorta a tomar precauciones. https://t.co/SqMYymQl2g",
+      "created_at": "2020-03-11T03:28:07.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237578772481585154"],
+      "conversation_id": "1237578772481585154",
+      "author_id": "1007495276481916929",
+      "geo": { "place_id": "25530ba03b7d90c6" },
+      "id": "1237578772481585154",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "Madonna adelanta final de su gira en París por el COVID-19 - https://t.co/9YvHswVWYq",
+      "created_at": "2020-03-11T03:19:07.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237577806453694472"],
+      "conversation_id": "1237577806453694472",
+      "author_id": "101656309",
+      "geo": { "place_id": "7e7899787953bfcb" },
+      "id": "1237577806453694472",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "What countries have been affected by the novel coronavirus known as COVID-19? How many cases are there in China? https://t.co/Npjz5ZXQCA vía @ChannelNewsAsia",
+      "created_at": "2020-03-11T03:15:16.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237575693812129793"],
+      "conversation_id": "1237425883079757824",
+      "author_id": "234543781",
+      "geo": { "place_id": "6d31e9257b83e23c" },
+      "id": "1237575693812129793",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "@GlodeJo07 Y todavía no nos cae con todo su peso el covid-19...",
+      "in_reply_to_user_id": "167042901",
+      "created_at": "2020-03-11T03:06:53.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237575160493780997"],
+      "conversation_id": "1237575160493780997",
+      "author_id": "3317395398",
+      "geo": { "place_id": "cb407226ddba7ce4" },
+      "id": "1237575160493780997",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 1
+      },
+      "text": "#NoTeLoPierdas\n\nCOVID-19 Y EL VIRUS MEDIÁTICO\nUn trabajo especial de Carlos Underwood:Un olor a mierda, pescado, hollín y agua estancada te envuelve al recorrer los pasillos del mercado Dong Xuan, en el centro de Hanói. NOTA COMPLETA EN: https://t.co/2Unf4rdESr https://t.co/yi3Vwxo0g0",
+      "created_at": "2020-03-11T03:04:45.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237574571655495683"],
+      "conversation_id": "1237574571655495683",
+      "author_id": "240476006",
+      "geo": { "place_id": "c734bf0063981051" },
+      "id": "1237574571655495683",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "https://t.co/IjKKpJy5XC",
+      "created_at": "2020-03-11T03:02:25.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237573809407840257"],
+      "conversation_id": "1237215703645724674",
+      "author_id": "3471822384",
+      "geo": { "place_id": "2a376531dff3d76a" },
+      "id": "1237573809407840257",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "@jorgeberry El  COVID-19, por cierto este es el nombre correcto (y te dices Periodista)\nNo tiene preferencia por los pendejasos, te puedes sentir seguro, solo sigue las normas de higiene que se dan diario en la conferencia nocturna  por los funcionarios de la Secretaria de Salud",
+      "in_reply_to_user_id": "160928917",
+      "created_at": "2020-03-11T02:59:23.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237573765623508996"],
+      "conversation_id": "1237573765623508996",
+      "author_id": "145266783",
+      "geo": { "place_id": "609d1bbc180f1434" },
+      "id": "1237573765623508996",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 1
+      },
+      "text": "Comunicado Técnico Diario: Nuevo Coronavirus en el Mundo (COVID-19)\n\nhttps://t.co/HpTXiGyc9y https://t.co/XoqYZdCLW1",
+      "created_at": "2020-03-11T02:59:13.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237572609090281474"],
+      "conversation_id": "1237572609090281474",
+      "author_id": "111512692",
+      "geo": { "place_id": "90a5d505052f7bae" },
+      "id": "1237572609090281474",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "Coronavirus: qué tan rápidamente se está extendiendo el covid-19 por América Latina (y cómo se compara con otras regiones del mundo).  https://t.co/uhh55pKVs5",
+      "created_at": "2020-03-11T02:54:37.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237572508192145409"],
+      "conversation_id": "1237572508192145409",
+      "author_id": "2278427059",
+      "geo": { "place_id": "bfc0e5ed37b66a6c" },
+      "id": "1237572508192145409",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0
+      },
+      "text": "An amazing Prayer/invocation for these times:\n\n“I ask the healing angel, Raphael, to stir all “troubled waters” of any &amp; all who need assistance due to the Coronavirus (Covid-19!”\n\nYou can also use this prayer for the high risk (Elderly, Inflamed, Sick).\n\nhttps://t.co/zbRNdBGGia https://t.co/o5eGbyuHlG",
+      "created_at": "2020-03-11T02:54:13.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237561482591604737"],
+      "conversation_id": "1237561482591604737",
+      "author_id": "188013030",
+      "geo": { "place_id": "f879e41db043d14c" },
+      "id": "1237561482591604737",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "Unos besos o te da miedo el COVID-19",
+      "created_at": "2020-03-11T02:10:24.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237560805186342912"],
+      "conversation_id": "1237560805186342912",
+      "author_id": "431058519",
+      "geo": { "place_id": "6c726a9d72c3156e" },
+      "id": "1237560805186342912",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "Coronavirus en mapas y gráficos: una guía visual para comprender el alcance y ritmo de propagación del covid-19 https://t.co/GIpMKK1nv2",
+      "created_at": "2020-03-11T02:07:43.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237558647292489728"],
+      "conversation_id": "1237558647292489728",
+      "author_id": "178558276",
+      "geo": { "place_id": "7d93122509633720" },
+      "id": "1237558647292489728",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "COVID-19, la enfermedad por #Coronavirus SARSCov-2 puede afectar a personas de cualquier edad.\n\nLa #Prevención es muy importante‼️ \n\n#SARSCoV2 #COVID19 #Neumólogo #Intensivista #Neumología #MedicinaCrítica #NeumólogoIntensivista  #PulmonaryCriticalCareMedicine https://t.co/RbvN8ApT2j",
+      "created_at": "2020-03-11T01:59:08.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237549872795942912"],
+      "conversation_id": "1237549872795942912",
+      "author_id": "3010430592",
+      "geo": { "place_id": "8e098f6d686001a9" },
+      "id": "1237549872795942912",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "#coronavirus y sus implicaciones de mercado\n\n#Business #Trends\n\nRT @McKinsey: COVID-19: Implications for business https://t.co/NW0NVrf9DF",
+      "created_at": "2020-03-11T01:24:16.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237547744421543936"],
+      "conversation_id": "1237215703645724674",
+      "author_id": "1373719092",
+      "geo": { "place_id": "517542f511656989" },
+      "id": "1237547744421543936",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "@jorgeberry El COVID 19 no le da a los CERDOS!\n\nNo tengas miedo.",
+      "in_reply_to_user_id": "160928917",
+      "created_at": "2020-03-11T01:15:49.000Z"
+    },
+    {
+      "edit_history_tweet_ids": ["1237544088401883137"],
+      "conversation_id": "1237544088401883137",
+      "author_id": "331816271",
+      "geo": { "place_id": "6f9640995f38bb31" },
+      "id": "1237544088401883137",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "Coronavirus: Europa extrema medidas por COVID-19 https://t.co/K77pj4tNRa",
+      "created_at": "2020-03-11T01:01:17.000Z"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "username": "jrinconr",
+        "location": "CRT",
+        "name": "Jr",
+        "id": "28434589",
+        "created_at": "2009-04-02T22:21:26.000Z"
+      },
+      {
+        "username": "ricardocarreon",
+        "location": "Ciudad de México",
+        "name": "ricardocarreon",
+        "id": "14236397",
+        "created_at": "2008-03-27T16:09:42.000Z"
+      },
+      {
+        "username": "gil_san97",
+        "location": "Guadalajara, Jalisco",
+        "name": "🐲🔥HuitzilopochGil 🔥🐉",
+        "id": "4059734892",
+        "created_at": "2015-10-29T17:29:04.000Z"
+      },
+      {
+        "username": "IsaacBraham",
+        "name": "Isaac Braham",
+        "id": "235886116",
+        "created_at": "2011-01-09T08:57:38.000Z"
+      },
+      {
+        "username": "bonicuevas",
+        "name": "Ivonne Cuevas",
+        "id": "104574454",
+        "created_at": "2010-01-13T19:05:41.000Z"
+      },
+      {
+        "username": "charly112233",
+        "location": "Guadalajara, México",
+        "name": "Carlos Aguirre 🇲🇽 ⌚️📚",
+        "id": "328241148",
+        "created_at": "2011-07-03T00:46:39.000Z"
+      },
+      {
+        "username": "PolOficial",
+        "name": "Leopoldo Oficial",
+        "id": "541474827",
+        "created_at": "2012-03-31T05:36:18.000Z"
+      },
+      {
+        "username": "CesarLaraTorres",
+        "location": "Ciudad de México",
+        "name": "Cesar Lara",
+        "id": "736174695364452353",
+        "created_at": "2016-05-27T12:38:19.000Z"
+      },
+      {
+        "username": "drguillenvargas",
+        "location": "Tijuana, Baja California",
+        "name": "Dr. Guillén 🇲🇽",
+        "id": "84536443",
+        "created_at": "2009-10-23T08:13:46.000Z"
+      },
+      {
+        "username": "IPablosss",
+        "location": "México",
+        "name": "Pablosss",
+        "id": "204433675",
+        "created_at": "2010-10-18T17:46:47.000Z"
+      },
+      {
+        "username": "Jexh87",
+        "location": "CDMX",
+        "name": "☞SHUNKO 🇲🇽",
+        "id": "177357892",
+        "created_at": "2010-08-11T23:00:03.000Z"
+      },
+      {
+        "username": "Edd_Eddiiy",
+        "location": "Puebla, México",
+        "name": "€ddiiy",
+        "id": "129365279",
+        "created_at": "2010-04-04T02:19:48.000Z"
+      },
+      {
+        "username": "tanhispano",
+        "location": "Estados Unidos",
+        "name": "TanHispano",
+        "id": "1007495276481916929",
+        "created_at": "2018-06-15T05:29:27.000Z"
+      },
+      {
+        "username": "chintixx",
+        "location": "Here, there, everywhere!!!",
+        "name": "ॐChintisॐ",
+        "id": "101656309",
+        "created_at": "2010-01-04T04:19:21.000Z"
+      },
+      {
+        "username": "Feliz_pillo",
+        "location": "Ciudad de México",
+        "name": "PolloKiller",
+        "id": "234543781",
+        "created_at": "2011-01-05T22:43:53.000Z"
+      },
+      {
+        "username": "ReporAmbulante",
+        "location": "Solidaridad, Quintana Roo",
+        "name": "Reportero Ambulante",
+        "id": "3317395398",
+        "created_at": "2015-08-17T05:41:38.000Z"
+      },
+      {
+        "username": "bobbysite",
+        "location": "monterrey, mexico",
+        "name": "roberto barajas",
+        "id": "240476006",
+        "created_at": "2011-01-20T01:01:18.000Z"
+      },
+      {
+        "username": "eduardocarmonaa",
+        "location": "CDMX",
+        "name": "La 4ta va con todo 👊",
+        "id": "3471822384",
+        "created_at": "2015-09-06T15:30:36.000Z"
+      },
+      {
+        "username": "cenaprece",
+        "location": "México D.F.",
+        "name": "CENAPRECE",
+        "id": "145266783",
+        "created_at": "2010-05-18T14:45:06.000Z"
+      },
+      {
+        "username": "GLGACA",
+        "location": "México, Distrito Federal",
+        "name": "Gabriela Campos",
+        "id": "111512692",
+        "created_at": "2010-02-05T05:19:16.000Z"
+      },
+      {
+        "username": "JayCampbell333",
+        "location": "FREE 📖 Get your vitality back",
+        "name": "Jay Campbell",
+        "id": "2278427059",
+        "created_at": "2014-01-06T03:12:01.000Z"
+      },
+      {
+        "username": "atzirili",
+        "location": "mexico",
+        "name": "✨Atzi Aguilar🖤✨",
+        "id": "188013030",
+        "created_at": "2010-09-07T18:30:48.000Z"
+      },
+      {
+        "username": "AnaJosefaLopSan",
+        "name": "AnaJosefa LópSan",
+        "id": "431058519",
+        "created_at": "2011-12-07T21:37:31.000Z"
+      },
+      {
+        "username": "vicmanMD",
+        "location": "Ciudad de México, México",
+        "name": "Victor Mendoza MD",
+        "id": "178558276",
+        "created_at": "2010-08-15T02:47:26.000Z"
+      },
+      {
+        "username": "OmarBrisenoMBA",
+        "location": "WW",
+        "name": "Omar Briseño A.",
+        "id": "3010430592",
+        "created_at": "2015-02-05T18:40:10.000Z"
+      },
+      {
+        "username": "Niza_xiva",
+        "location": "Santa María Atzompa, Oaxaca",
+        "name": "el agropecuario 🤠 🇲🇽Nizanaganda#RedAmlove♥️ #",
+        "id": "1373719092",
+        "created_at": "2013-04-23T03:50:22.000Z"
+      },
+      {
+        "username": "barevalomolina",
+        "name": "Benjamin Arévalo",
+        "id": "331816271",
+        "created_at": "2011-07-08T19:19:36.000Z"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1237716573475004416",
+    "oldest_id": "1237544088401883137",
+    "result_count": 27
+  }
+}

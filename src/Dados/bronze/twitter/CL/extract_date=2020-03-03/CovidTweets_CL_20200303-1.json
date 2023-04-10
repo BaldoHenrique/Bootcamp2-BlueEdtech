@@ -1,0 +1,2003 @@
+{
+  "data": [
+    {
+      "conversation_id": "1234991901087895552",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T23:59:48.000Z",
+      "edit_history_tweet_ids": ["1234991901087895552"],
+      "id": "1234991901087895552",
+      "text": "#modocoronavirus #CoronaVirusEnChile #Covid_19 #chile https://t.co/2GX0ynDo0j",
+      "geo": { "place_id": "00dc8225055a8fdc" },
+      "author_id": "313328229"
+    },
+    {
+      "conversation_id": "1234991717314465793",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T23:59:05.000Z",
+      "edit_history_tweet_ids": ["1234991717314465793"],
+      "id": "1234991717314465793",
+      "text": "#Covid_19 en mis tiempos una michelada y estamos!!",
+      "geo": { "place_id": "0132326247153554" },
+      "author_id": "171284143"
+    },
+    {
+      "conversation_id": "1234989052346032128",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T23:48:29.000Z",
+      "edit_history_tweet_ids": ["1234989052346032128"],
+      "id": "1234989052346032128",
+      "text": "#coronaVirus #Covid_19 #chile #argentina https://t.co/8YCAEHY5jt",
+      "geo": { "place_id": "00ab3d5d265cc6d9" },
+      "author_id": "108797190"
+    },
+    {
+      "conversation_id": "1234988991897722881",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T23:48:15.000Z",
+      "edit_history_tweet_ids": ["1234988991897722881"],
+      "id": "1234988991897722881",
+      "text": "#Covid_19 la delgada línea entre informar y alarmar. https://t.co/N20u4nY1XU",
+      "geo": { "place_id": "000af2920fcd0d30" },
+      "author_id": "87468422"
+    },
+    {
+      "conversation_id": "1234988612053172224",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T23:46:44.000Z",
+      "edit_history_tweet_ids": ["1234988612053172224"],
+      "id": "1234988612053172224",
+      "text": "Datito! \nColegas de la salud , la OMS abrió hace unos días un curso virtual gratuito sobre el COVID-19 .",
+      "geo": { "place_id": "00aae48175646039" },
+      "author_id": "66573454"
+    },
+    {
+      "conversation_id": "1234988160683106306",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T23:44:57.000Z",
+      "edit_history_tweet_ids": ["1234988160683106306"],
+      "id": "1234988160683106306",
+      "text": "El #Covid_19 es susceptible al calor y sanitizante como el alcohol. Mientras nos mantengamos calientes y borrachos estaremos bien 😂😂",
+      "geo": { "place_id": "01ee68fb632783de" },
+      "author_id": "2718179765"
+    },
+    {
+      "conversation_id": "1234988030034731008",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T23:44:25.000Z",
+      "edit_history_tweet_ids": ["1234988030034731008"],
+      "id": "1234988030034731008",
+      "text": "Comprendo tu posición política , pero si administras una página de alerta creo que lo más provechoso es que eduques ( en este caso). Realiza promoción y prevención si tienes este medio con tantos seguidores. Informa , retroalimenta. Podrías ser de gran ayuda 👍 #Covid_19 https://t.co/cTSnGJ2rmz",
+      "geo": { "place_id": "00aae48175646039" },
+      "author_id": "66573454"
+    },
+    {
+      "conversation_id": "1234982547630673920",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T23:22:38.000Z",
+      "edit_history_tweet_ids": ["1234982547630673920"],
+      "id": "1234982547630673920",
+      "text": "Que protocolos cumple la hotelería chilena y los casinos sobre el #coronaviruschile ? @meconomia @Sernatur @superdecasinos @CasinoDreamsIqq @CasinoDreamsPV @sonestaosorno @sunmonticello @CasinoArica\n#Covid_19 #Covid_19 https://t.co/dgS2wWIC3n",
+      "geo": { "place_id": "000af2920fcd0d30" },
+      "author_id": "66252519"
+    },
+    {
+      "conversation_id": "1234982484950994944",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T23:22:23.000Z",
+      "edit_history_tweet_ids": ["1234982484950994944"],
+      "id": "1234982484950994944",
+      "text": "El wn viajó por todo el sudeste asiatico gastando millones y se le ocurre atenderse en el hospital de talca... Sospecha la wea #cagamos #Covid_19  #coronavirus",
+      "geo": { "place_id": "006a80833658c159" },
+      "author_id": "717806262856114176"
+    },
+    {
+      "conversation_id": "1234979766622507009",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 1,
+        "quote_count": 1
+      },
+      "created_at": "2020-03-03T23:11:35.000Z",
+      "edit_history_tweet_ids": ["1234979766622507009"],
+      "id": "1234979766622507009",
+      "text": "El @GobiernodeChile  y @DEGREYD_MINSAL ha lanzado un nuevo  video informativo sobre el protocolo de higiene para combatir el #coronavirus #Covid_19 https://t.co/fnAb0DqV7O",
+      "geo": { "place_id": "0010b4cb51ca93d8" },
+      "author_id": "65838047"
+    },
+    {
+      "conversation_id": "1234979141524418560",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T23:09:06.000Z",
+      "edit_history_tweet_ids": ["1234979141524418560"],
+      "id": "1234979141524418560",
+      "text": "Con el #Covid_19 #coronavirus en talca lo primero Que uno supone es que la Lista principal de contagiados parte desde el Terminal con todos los pasajeros visitados, pero no. En chile @jmanalich manda al Afectado a su casa con un paracetamol 🇨🇱💩\n@ministeriosalud\n@sebastianpinera",
+      "geo": { "place_id": "0010b4cb51ca93d8" },
+      "author_id": "384369841"
+    },
+    {
+      "conversation_id": "1234978677223383042",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T23:07:16.000Z",
+      "edit_history_tweet_ids": ["1234978677223383042"],
+      "id": "1234978677223383042",
+      "text": "Ya estamos en el mapa!! \n#llegomarzo #desviarlaatencion #coronavirus #cagamos #Covid_19 https://t.co/4I7QMZKNmR",
+      "geo": { "place_id": "01ee68fb632783de" },
+      "author_id": "1153827008926953472"
+    },
+    {
+      "conversation_id": "1234978503470153729",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T23:06:34.000Z",
+      "edit_history_tweet_ids": ["1234978503470153729"],
+      "id": "1234978503470153729",
+      "text": "Si el examen hay que pagarlo, les encargo que se enfermen de #coronavirus (COVID-19) en #chile, entre la precaria salud pública y la usura de la salud privada, solo me queda decir #cagamos https://t.co/69C70pZk9y",
+      "geo": { "place_id": "019f2f4e187ace41" },
+      "author_id": "118100740"
+    },
+    {
+      "conversation_id": "1234976503768551424",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 1
+      },
+      "created_at": "2020-03-03T22:58:37.000Z",
+      "edit_history_tweet_ids": ["1234976503768551424"],
+      "id": "1234976503768551424",
+      "text": "El hecho de que los usuarios de Isapre, y de Fonasa C y D tengan que pagar por el examen por sospecha de corona virus (COVID-19) demuestra el nivel de sistema de salud que tenemos en Chile #cagamos #coronavirus #chile #salud",
+      "geo": { "place_id": "019f2f4e187ace41" },
+      "author_id": "118100740"
+    },
+    {
+      "conversation_id": "1234975342978199552",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 4,
+        "like_count": 10,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:54:01.000Z",
+      "edit_history_tweet_ids": ["1234975342978199552"],
+      "id": "1234975342978199552",
+      "text": "Justo se detecta un caso de coronavirus antes de las manifestaciones... será para q no haya aglomeraciones?? Me parece raro... #cagamos #coronavirus #Covid_19",
+      "geo": { "place_id": "0010b4cb51ca93d8" },
+      "author_id": "486211947"
+    },
+    {
+      "conversation_id": "1234974950445858818",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:52:27.000Z",
+      "edit_history_tweet_ids": ["1234974950445858818"],
+      "id": "1234974950445858818",
+      "text": "Ministerio de salud informa nuevo fármaco para cura del #coronavirus , que fue usado en hospital de #Talca \n#Covid_19 \n#COVIDー19 \n#coronaviruschile https://t.co/KLisLdfNYr",
+      "geo": { "place_id": "000af2920fcd0d30" },
+      "author_id": "66252519"
+    },
+    {
+      "conversation_id": "1234974424253620226",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:50:22.000Z",
+      "edit_history_tweet_ids": ["1234974424253620226"],
+      "id": "1234974424253620226",
+      "text": "¿Conoces los síntomas del #COVID_19?\nRecuerda que sus síntomas son muy parecidos a otras afecciones, un posible brote puede ocurrir en caso de que se haya viajado a algún país con casos confirmados. \nPara más información: https://t.co/c0hLxniOyb\nO en @Salud_Responde 600 360 7777 https://t.co/7JoGpUmAND",
+      "geo": { "place_id": "0060ebce4be75d6a" },
+      "author_id": "1434027672"
+    },
+    {
+      "conversation_id": "1234974274881908737",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:49:46.000Z",
+      "edit_history_tweet_ids": ["1234974274881908737"],
+      "id": "1234974274881908737",
+      "text": "hasta nuestra muerte será made in china #covid_19 🦠",
+      "geo": { "place_id": "010a74892213c898" },
+      "author_id": "76537611"
+    },
+    {
+      "conversation_id": "1234973635216982016",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:47:13.000Z",
+      "edit_history_tweet_ids": ["1234973635216982016"],
+      "id": "1234973635216982016",
+      "text": "pregunta seria: con la histeria que generará el #coronavirus, conviene mantener la fecha del plebiscito? cómo garantizar el derecho a votar si se corre el riesgo de contagio? #Covid_19",
+      "geo": { "place_id": "0150459b5095a59f" },
+      "author_id": "1142893751171465217"
+    },
+    {
+      "conversation_id": "1234973042758975488",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 13,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:44:52.000Z",
+      "edit_history_tweet_ids": ["1234973042758975488"],
+      "id": "1234973042758975488",
+      "text": "Leí recién que en China el ministro de salud visita a diario a los enfermos de #Coronavirus \nOpino que #Mañalich debería hacer lo mismo\nMostrar más humanidad y acompañar al contagiado 24/7\nOjalá sin protección \n#Cagamos\n#Talca\n#Mañalich\n#Covid_19",
+      "geo": { "place_id": "0060ebce4be75d6a" },
+      "author_id": "3131111248"
+    },
+    {
+      "conversation_id": "1234972445129367552",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:42:30.000Z",
+      "edit_history_tweet_ids": ["1234972445129367552"],
+      "id": "1234972445129367552",
+      "text": "Jajaja 😂🤣😂 #3demarzo #ULTIMAHORA #Chile #Covid_19 #coronavirus https://t.co/uAjsTRbhGP",
+      "geo": { "place_id": "019f5b823c2b7bae" },
+      "author_id": "1197561895147974657"
+    },
+    {
+      "conversation_id": "1234971813714644993",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:39:59.000Z",
+      "edit_history_tweet_ids": ["1234971813714644993"],
+      "id": "1234971813714644993",
+      "text": "#Covid_19 #coronavirus 👇👇 https://t.co/o3COSMGTgZ",
+      "geo": { "place_id": "75be422815eb66b9" },
+      "author_id": "368065581"
+    },
+    {
+      "conversation_id": "1234971270686466048",
+      "public_metrics": {
+        "retweet_count": 12,
+        "reply_count": 6,
+        "like_count": 32,
+        "quote_count": 1
+      },
+      "created_at": "2020-03-03T22:37:50.000Z",
+      "edit_history_tweet_ids": ["1234971270686466048"],
+      "id": "1234971270686466048",
+      "text": "*Oye #Coronavirus\nEl Ron Silver Hacia Mas Daño Que Vo Xuxetumare\nTe Paseo😜\n\n#Covid_19 https://t.co/mFUZSXkJor",
+      "geo": { "place_id": "01d81ef9624ec31c" },
+      "author_id": "1113552730289856512"
+    },
+    {
+      "conversation_id": "1234970483990265857",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:34:42.000Z",
+      "edit_history_tweet_ids": ["1234970483990265857"],
+      "geo": {
+        "coordinates": { "type": "Point", "coordinates": [-70.5674, -33.409] },
+        "place_id": "00c4b64e7affea25"
+      },
+      "id": "1234970483990265857",
+      "text": "No lo pudimos evitar 🤭🤭\n #ahíSeLasDejo 😬\n.\n.\nhttps://t.co/TGyaITTXeE 🇨🇱\n.\n.\n.\n.\n#TeloestampoLoHizoOtraVez #coronavirus #llegóaChile #talca #3deMarzo #Covid_19 #mañalich #Chile #humor #emprendedores #hechoEnChile en Las… https://t.co/w32B75am7W",
+      "author_id": "300504657"
+    },
+    {
+      "conversation_id": "1234970377337499648",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:34:17.000Z",
+      "edit_history_tweet_ids": ["1234970377337499648"],
+      "id": "1234970377337499648",
+      "text": "😏😏😏😏😏😷😷😷\n#Covid_19 #ULTIMAHORA en #Chile #Coronavirus https://t.co/te7Fnl0RIt",
+      "geo": { "place_id": "0010b4cb51ca93d8" },
+      "author_id": "118547255"
+    },
+    {
+      "conversation_id": "1234970109141291008",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:33:13.000Z",
+      "edit_history_tweet_ids": ["1234970109141291008"],
+      "id": "1234970109141291008",
+      "text": "Con todas las violaciones a los DDHH y la cruel represión ejercida por este gobierno, el #Covid_19 es juego de niños. Creo que se viene terrible para el gobierno. Carecen de Credibilidad. Por lo que habrá desobediencia y se viene la marcha hiper masiva sin miedo a nadie ni a nada",
+      "geo": { "place_id": "01d461fd3da860bd" },
+      "author_id": "125167550"
+    },
+    {
+      "conversation_id": "1234970101058695168",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:33:11.000Z",
+      "edit_history_tweet_ids": ["1234970101058695168"],
+      "id": "1234970101058695168",
+      "text": "#Covid_19 #coronavirus 👇👇 https://t.co/WdxHZLzCWp",
+      "geo": { "place_id": "75be422815eb66b9" },
+      "author_id": "368065581"
+    },
+    {
+      "conversation_id": "1234969730168971265",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:31:42.000Z",
+      "edit_history_tweet_ids": ["1234969730168971265"],
+      "id": "1234969730168971265",
+      "text": "Me tienen hinchados los 🥥 q no tengo con el #coronavirus #Covid_19 o como cresta quieran inventarle! Loco, medio contagiado q se fue pa la casa mas libre q la Elsa! #parendementir #cagamos #talca #massufroyoconcaña https://t.co/avbFAKAn5T",
+      "geo": { "place_id": "019f2f4e187ace41" },
+      "author_id": "105174933"
+    },
+    {
+      "conversation_id": "1234968450071748609",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:26:37.000Z",
+      "edit_history_tweet_ids": ["1234968450071748609"],
+      "id": "1234968450071748609",
+      "text": "#cagamos voh cachay que todo el mundo está cagado de miedo por el virus y nosotros nos cagamos de la risa que llego a Chile. Uta que amo ser chileno.\nLe tengo más miedo a los políticos que al #Covid_19",
+      "geo": { "place_id": "0010b4cb51ca93d8" },
+      "author_id": "103987591"
+    },
+    {
+      "conversation_id": "1234968434313777153",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:26:34.000Z",
+      "edit_history_tweet_ids": ["1234968434313777153"],
+      "id": "1234968434313777153",
+      "text": "Pero que sea de mi mami! Lista pr el #Covid_19 https://t.co/lqlzQRDqvd",
+      "geo": { "place_id": "00e76fbf0a273ce5" },
+      "author_id": "101872723"
+    },
+    {
+      "conversation_id": "1234968326603931649",
+      "public_metrics": {
+        "retweet_count": 13,
+        "reply_count": 6,
+        "like_count": 33,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:26:08.000Z",
+      "edit_history_tweet_ids": ["1234968326603931649"],
+      "id": "1234968326603931649",
+      "text": "*Como Ingreso El #Coronavirus a Chile🇨🇱 y Llego a Talca\n\n#Covid_19 https://t.co/jtjR8v9egf",
+      "geo": { "place_id": "0060ebce4be75d6a" },
+      "author_id": "1113552730289856512"
+    },
+    {
+      "conversation_id": "1234944759229231104",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:21:49.000Z",
+      "edit_history_tweet_ids": ["1234967243005534208"],
+      "id": "1234967243005534208",
+      "text": "@T13 @jmanalich @jmanalich ya llego el coronavirus.... Pero tenemos el mejor sistema de salud del planeta 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣...\nRidiculo\n#Covid_19 #coronaviruschile #renunciamañalich",
+      "in_reply_to_user_id": "24952459",
+      "geo": { "place_id": "0067ac795cb0bcc9" },
+      "author_id": "2742750983"
+    },
+    {
+      "conversation_id": "1234966259055415297",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:17:55.000Z",
+      "edit_history_tweet_ids": ["1234966259055415297"],
+      "id": "1234966259055415297",
+      "text": "Ni cagando me contagio #Covid_19 https://t.co/00cJRVKzJH",
+      "geo": { "place_id": "002442586af0948e" },
+      "author_id": "839301661"
+    },
+    {
+      "conversation_id": "1234965913553772545",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:16:33.000Z",
+      "edit_history_tweet_ids": ["1234965913553772545"],
+      "id": "1234965913553772545",
+      "text": "Que chucha? #coronavirus #Covid_19 #cagamos Talca https://t.co/SNfk6Acekk",
+      "geo": { "place_id": "00fb0fc66a6dde3f" },
+      "author_id": "119549573"
+    },
+    {
+      "conversation_id": "1234965757588656129",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:15:55.000Z",
+      "edit_history_tweet_ids": ["1234965757588656129"],
+      "id": "1234965757588656129",
+      "text": "Piñera ganó en Talca pa las elecciones, después de haber robado el banco, ahora el corona virus confirma un caso allá. SE LLAMA KARMA PERROS #Covid_19 #CoronaVirus",
+      "geo": { "place_id": "000ac536774ebaa6" },
+      "author_id": "101106283"
+    },
+    {
+      "conversation_id": "1234965649715232770",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:15:30.000Z",
+      "edit_history_tweet_ids": ["1234965649715232770"],
+      "id": "1234965649715232770",
+      "text": "Con #coronavirus o no, No dejaremos las calles y mucho menos dejaremos de votar APRUEBO. #3demarzo #Covid_19 #coronaviruschile",
+      "geo": { "place_id": "0150459b5095a59f" },
+      "author_id": "60248243"
+    },
+    {
+      "conversation_id": "1234964899803037704",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:12:31.000Z",
+      "edit_history_tweet_ids": ["1234964899803037704"],
+      "id": "1234964899803037704",
+      "text": "Última definición de caso confirmado y sospechoso de infección por #Covid_19 #Chile https://t.co/nMTbYE9Vnf",
+      "geo": { "place_id": "00b714cf313be8ee" },
+      "author_id": "210945362"
+    },
+    {
+      "conversation_id": "1234964708727365634",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:11:45.000Z",
+      "edit_history_tweet_ids": ["1234964708727365634"],
+      "id": "1234964708727365634",
+      "text": "Si el paciente tiene #Covid_19  como lo dan de alta hoy en la noche, no será pa amainar las manifestaciones que hay en este país y bajar las aguas a todo\n🤔🤔🤔🤔🤔🤔",
+      "geo": { "place_id": "008be613029d4ca5" },
+      "author_id": "2799192739"
+    },
+    {
+      "conversation_id": "1234964679023181952",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:11:38.000Z",
+      "edit_history_tweet_ids": ["1234964679023181952"],
+      "id": "1234964679023181952",
+      "text": "El compatriota del #Covid_19 hará el tratamiento desde su casa. El Minsal y @jmanalich dicen que no hay que preocuparse porque ya pagó las 20 lucas.\n#cagamos",
+      "geo": { "place_id": "0010b4cb51ca93d8" },
+      "author_id": "1013902043529056256"
+    },
+    {
+      "conversation_id": "1234964071469940741",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:09:13.000Z",
+      "edit_history_tweet_ids": ["1234964071469940741"],
+      "id": "1234964071469940741",
+      "text": "Me dieron el dato que el #Covid_19 se quita con copete\nAsí que me tomo un mango heladito https://t.co/vPM5r1iadN",
+      "geo": { "place_id": "008be613029d4ca5" },
+      "author_id": "2799192739"
+    },
+    {
+      "conversation_id": "1234963983167315973",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:08:52.000Z",
+      "edit_history_tweet_ids": ["1234963983167315973"],
+      "id": "1234963983167315973",
+      "text": "Si el #Covid_19 se lleva a la vieja Lucía...estamos a mano! Llévate al gabinete completo sin problemas!\n#talca\n#estamoscagados",
+      "geo": { "place_id": "0188f27841b8920c" },
+      "author_id": "18435565"
+    },
+    {
+      "conversation_id": "1234963730691239937",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:07:52.000Z",
+      "edit_history_tweet_ids": ["1234963730691239937"],
+      "id": "1234963730691239937",
+      "text": "Suspendieron el carnaval de #Venezia por el #Covid_19 si se pone masivo y no suspenden  #Lollapalooza  demostraremos una vez más lo tercermundista que somos.",
+      "geo": { "place_id": "00c4b64e7affea25" },
+      "author_id": "200632864"
+    },
+    {
+      "conversation_id": "1234963671635415040",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:07:38.000Z",
+      "edit_history_tweet_ids": ["1234963671635415040"],
+      "id": "1234963671635415040",
+      "text": "La llegada del Coronavirus es la mejor excusa que tendrá Piñera para llamar a no marchar ni manifestarse en multitud, para evitar el contagio.\n#Covid_19 #coronavirus",
+      "geo": { "place_id": "00d121ae37daf9e8" },
+      "author_id": "119966267"
+    },
+    {
+      "conversation_id": "1234963619760267266",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:07:26.000Z",
+      "edit_history_tweet_ids": ["1234963619760267266"],
+      "id": "1234963619760267266",
+      "text": "Yo en la casa y en la oficina... #Covid_19 #coronavirus #cagamos https://t.co/G1tX3gXRcg",
+      "geo": { "place_id": "00c4b64e7affea25" },
+      "author_id": "104330870"
+    },
+    {
+      "conversation_id": "1234963385353195520",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:06:30.000Z",
+      "edit_history_tweet_ids": ["1234963385353195520"],
+      "id": "1234963385353195520",
+      "text": "nadie habla de eliminar la propiedad privada. el TC es una tercera cámara totalmente politizada y generada principalmente por los poderes ejecutivo y legislativo. Los 2/3 son antidemocráticos. #Covid_19\n#coronavirus #ChileDespertó #NuevaConstitucionParaChile #RECHAZOCRECE https://t.co/iOib70AMyb",
+      "geo": { "place_id": "00c4b64e7affea25" },
+      "author_id": "1187336157685846017"
+    },
+    {
+      "conversation_id": "1234962911975690240",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:04:37.000Z",
+      "edit_history_tweet_ids": ["1234962911975690240"],
+      "id": "1234962911975690240",
+      "text": "Tamos hasta el lolli perrito #cagamos #coronavirus #Covid_19 #talca #piñeravirus https://t.co/2UVDuuxLPF",
+      "geo": { "place_id": "00ab86786262535c" },
+      "author_id": "1183457727521218562"
+    },
+    {
+      "conversation_id": "1234962843751133185",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:04:21.000Z",
+      "edit_history_tweet_ids": ["1234962843751133185"],
+      "geo": {
+        "coordinates": { "type": "Point", "coordinates": [-71.0, -31.0] },
+        "place_id": "0014af856cef0835"
+      },
+      "id": "1234962843751133185",
+      "text": "Síntomas y recomendaciones del Coronavirus (COVID-19)\n\n• Origen: El Nuevo Coronavirus (2019-nCoV) es una cepa de la familia de coronavirus que no se había identificado previamente en humanos. Este nombre es… https://t.co/nLQ6Kq4wZd",
+      "author_id": "996380008330465280"
+    },
+    {
+      "conversation_id": "1234962221425360896",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:01:52.000Z",
+      "edit_history_tweet_ids": ["1234962221425360896"],
+      "id": "1234962221425360896",
+      "text": "el ideal sería q todos los países latinoamericanos no tuviesen FFAA.Nos ahorraríamos  mucho dinero, alejaríamos el peligro de guerras y de problemas de DDHH. Pero es una utopía.#Covid_19 #\nChileDespertó #NuevaConstitucionParaChile #coronavirus #RECHAZOCRECE #d https://t.co/EjhsasAQUB",
+      "geo": { "place_id": "00c4b64e7affea25" },
+      "author_id": "1187336157685846017"
+    },
+    {
+      "conversation_id": "1234961798056595458",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T22:00:11.000Z",
+      "edit_history_tweet_ids": ["1234961798056595458"],
+      "id": "1234961798056595458",
+      "text": "Falta la opinión del microbiólogo de fama mundial @albertoplaza sobre el #Covid_19",
+      "geo": { "place_id": "0010b4cb51ca93d8" },
+      "author_id": "363423577"
+    },
+    {
+      "conversation_id": "1234961293653762054",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:58:11.000Z",
+      "edit_history_tweet_ids": ["1234961293653762054"],
+      "id": "1234961293653762054",
+      "text": "Si el #Lollapalooza no se realiza,  tampoco será hará el plebiscito,  parece que nos cagaron...esto huele mal..\n\n#AprueboNuevaConstitucion \n#RenunciaPiñera \n#Covid_19",
+      "geo": { "place_id": "0010b4cb51ca93d8" },
+      "author_id": "937977642"
+    },
+    {
+      "conversation_id": "1234960216141312000",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:53:54.000Z",
+      "edit_history_tweet_ids": ["1234960216141312000"],
+      "id": "1234960216141312000",
+      "text": "Ya tenemos el primer caso de #Covid_19 en Chile 🇨🇱... Lo debería visitar el presidente y el ministro de Salud... 😂😂 #YoApruebo",
+      "geo": { "place_id": "0154bba02bf8a9f9" },
+      "author_id": "118786133"
+    },
+    {
+      "conversation_id": "1234960207995981827",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:53:52.000Z",
+      "edit_history_tweet_ids": ["1234960207995981827"],
+      "id": "1234960207995981827",
+      "text": "‼️AQUÍ ESTÁ EL MAPA EN TIEMPO REAL DEL #CORONAVIRUS #COVID_19 EN EL MUNDO ‼️☣️🌎 🌍 \n\nhttps://t.co/W1WCTp1t1v",
+      "geo": { "place_id": "008be613029d4ca5" },
+      "author_id": "87031012"
+    },
+    {
+      "conversation_id": "1234959470725390336",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:50:56.000Z",
+      "edit_history_tweet_ids": ["1234959470725390336"],
+      "id": "1234959470725390336",
+      "text": "#Covid_19 bueno, de algo hay que morirse o no? #cagamos https://t.co/umXdfcDiIJ",
+      "geo": { "place_id": "01d461fd3da860bd" },
+      "author_id": "146250705"
+    },
+    {
+      "conversation_id": "1234959005501575169",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:49:05.000Z",
+      "edit_history_tweet_ids": ["1234959005501575169"],
+      "id": "1234959005501575169",
+      "text": "El  #coronavirus por lo menos tiene buen ritmo #Covid_19 #cagamos https://t.co/dhb44yfmDP",
+      "geo": { "place_id": "00dc8225055a8fdc" },
+      "author_id": "72170908"
+    },
+    {
+      "conversation_id": "1234958990926385155",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:49:02.000Z",
+      "edit_history_tweet_ids": ["1234958990926385155"],
+      "id": "1234958990926385155",
+      "text": "El Coronavirus viendo como mi mamá quema Eucaliptus por toda la casa #Covid_19 https://t.co/QVL1qpW1b1",
+      "geo": { "place_id": "0010b4cb51ca93d8" },
+      "author_id": "129907431"
+    },
+    {
+      "conversation_id": "1234958748344602625",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:48:04.000Z",
+      "edit_history_tweet_ids": ["1234958748344602625"],
+      "id": "1234958748344602625",
+      "text": "#coronavirus #Covid_19 #cagamos pobre del q me estornude encima https://t.co/ViWg0LQwJB",
+      "geo": { "place_id": "00fb0fc66a6dde3f" },
+      "author_id": "352598746"
+    },
+    {
+      "conversation_id": "1234958597508997121",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:47:28.000Z",
+      "edit_history_tweet_ids": ["1234958597508997121"],
+      "id": "1234958597508997121",
+      "text": "Ante confirmación @ministeriosalud de primer caso #COVID_19 @SaludMagallanes te recuerda que el lavado de manos es fundamental para prevenir esta enfermedad.\nSi tienes dudas, llama a @Salud_Responde ☎️ 600 360 7777 @jmanalich @arturozunigaj @ATapiaC @SeremiSalud_XII https://t.co/bR0r9zfWvX",
+      "geo": { "place_id": "00aae48175646039" },
+      "author_id": "783649827930402816"
+    },
+    {
+      "conversation_id": "1234958555264036865",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:47:18.000Z",
+      "edit_history_tweet_ids": ["1234958555264036865"],
+      "id": "1234958555264036865",
+      "text": "#Covid_19 https://t.co/TlovCw4oCL",
+      "geo": { "place_id": "0113747966068613" },
+      "author_id": "193146375"
+    },
+    {
+      "conversation_id": "1234957189749649409",
+      "public_metrics": {
+        "retweet_count": 4345,
+        "reply_count": 993,
+        "like_count": 5052,
+        "quote_count": 1111
+      },
+      "created_at": "2020-03-03T21:41:53.000Z",
+      "edit_history_tweet_ids": ["1234957189749649409"],
+      "id": "1234957189749649409",
+      "text": "Él no está bien, mental y espiritualmente no está bien. #Covid_19 #cagamos https://t.co/32xCY0V4hZ",
+      "geo": { "place_id": "009bffed2486be17" },
+      "author_id": "632424009"
+    },
+    {
+      "conversation_id": "1234957063375216644",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:41:22.000Z",
+      "edit_history_tweet_ids": ["1234957063375216644"],
+      "id": "1234957063375216644",
+      "text": "Así nomas poh #Covid_19 https://t.co/hROXEhIUQq",
+      "geo": { "place_id": "018247693a6733dc" },
+      "author_id": "118473381"
+    },
+    {
+      "conversation_id": "1234956695438286848",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:39:55.000Z",
+      "edit_history_tweet_ids": ["1234956695438286848"],
+      "id": "1234956695438286848",
+      "text": "Dicen que la tasa de muerte por el #Covid_19 es más baja que la aprobación de Piñera y su gobierno \n#YoAprueboNuevaConstitucion",
+      "geo": { "place_id": "013a87000e5c4e15" },
+      "author_id": "971171334188388353"
+    },
+    {
+      "conversation_id": "1234956596796690433",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:39:31.000Z",
+      "edit_history_tweet_ids": ["1234956596796690433"],
+      "id": "1234956596796690433",
+      "text": "que análisis tan simplista.  La prosperidad en este sistema neoliberal es p unos pocos. Es contra los abusos, colusiones, ley de pesca, cárcel sólo p pobres. Sueldos y jubilaciones miserables. Salud y educación pública de mala calidad. #Covid_19 #ChileDespertó https://t.co/wLYk30qsLq",
+      "geo": { "place_id": "00c4b64e7affea25" },
+      "author_id": "1187336157685846017"
+    },
+    {
+      "conversation_id": "1234956379506565120",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:38:39.000Z",
+      "edit_history_tweet_ids": ["1234956379506565120"],
+      "id": "1234956379506565120",
+      "text": "🔴 El primer caso confirmado de Coronavirus en Chile es en la ciudad de Talca, se trata de un joven médico quien llegó a fines de febrero a Chile tras un viaje a Asia y Europa.\n\n#bienvenidoachile #Covid_19 #Talca #ElMaule https://t.co/fmivscVDqB",
+      "geo": { "place_id": "019f5b823c2b7bae" },
+      "author_id": "177322353"
+    },
+    {
+      "conversation_id": "1234955270952046592",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:34:15.000Z",
+      "edit_history_tweet_ids": ["1234955270952046592"],
+      "id": "1234955270952046592",
+      "text": "#coronavirus #Covid_19 https://t.co/XIB8aVrPEx",
+      "geo": { "place_id": "010253bf339b3e84" },
+      "author_id": "2562476732"
+    },
+    {
+      "conversation_id": "1234955217285853186",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:34:02.000Z",
+      "edit_history_tweet_ids": ["1234955217285853186"],
+      "id": "1234955217285853186",
+      "text": "El #coronavirus primero llego a Argentina, luego a Chile, estamos 1 a 1, esta claro lo que pasa si nos vamos a penales 🤣 #cagamos #Covid_19",
+      "geo": { "place_id": "00aae48175646039" },
+      "author_id": "75673770"
+    },
+    {
+      "conversation_id": "1234955174847926278",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:33:52.000Z",
+      "edit_history_tweet_ids": ["1234955174847926278"],
+      "id": "1234955174847926278",
+      "text": "Es idea mía o...\nSabíamos que iban a declarar casos de #coronavirus #Covid_19 por lo del #EstallidoSocial\n¿O no?",
+      "geo": { "place_id": "01686dc90dabcc80" },
+      "author_id": "615401134"
+    },
+    {
+      "conversation_id": "1234954976302108673",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:33:05.000Z",
+      "edit_history_tweet_ids": ["1234954976302108673"],
+      "id": "1234954976302108673",
+      "text": "Me pregunto cuantos millenial chilenos que viajaron al Sudeste Asiático hoy tienen fiebre? #Talca #cagamos #Covid_19",
+      "geo": { "place_id": "00e322460b3f03b5" },
+      "author_id": "177978358"
+    },
+    {
+      "conversation_id": "1234954887349309443",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:32:44.000Z",
+      "edit_history_tweet_ids": ["1234954887349309443"],
+      "id": "1234954887349309443",
+      "text": "#Covid_19 #coronavirus #coronaviruschile #Talca https://t.co/ZhEWwwoQ3r",
+      "geo": { "place_id": "008be613029d4ca5" },
+      "author_id": "280100175"
+    },
+    {
+      "conversation_id": "1234954575079186432",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:31:29.000Z",
+      "edit_history_tweet_ids": ["1234954575079186432"],
+      "id": "1234954575079186432",
+      "text": "#Cagamos #Talca  #Covid_19 hasta que llegó https://t.co/liz0a6Pdrk",
+      "geo": { "place_id": "019f2f4e187ace41" },
+      "author_id": "755399471811485697"
+    },
+    {
+      "conversation_id": "1234954418136764418",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:30:52.000Z",
+      "edit_history_tweet_ids": ["1234954418136764418"],
+      "id": "1234954418136764418",
+      "text": "que argumento más absurdo p justificar su actitud. No es sincero p reconocer q como vive en el oasis le conviene mantener la constitución con sus amarres antidemocráticos y así impedir los cambios. #Covid_19 #coronavirus\n#ULTIMAHORA #ChileDesperto #NuevaConstitucionParaChile https://t.co/injxxyPMzR",
+      "geo": { "place_id": "00c4b64e7affea25" },
+      "author_id": "1187336157685846017"
+    },
+    {
+      "conversation_id": "1234954206584430592",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:30:01.000Z",
+      "edit_history_tweet_ids": ["1234954206584430592"],
+      "id": "1234954206584430592",
+      "text": "Se supone que es médico, viajó por el mundo durante un mes y al volver decidió ir al hospital de Talca??? El mejor hospital de Chile, país con el mejor sistema de salud del planeta? #Covid_19",
+      "geo": { "place_id": "0149bbb636ea616c" },
+      "author_id": "45757395"
+    },
+    {
+      "conversation_id": "1234953734070898688",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:28:09.000Z",
+      "edit_history_tweet_ids": ["1234953734070898688"],
+      "id": "1234953734070898688",
+      "text": "Vendo nuevas mascarillas anti #Covid_19 #cagamos https://t.co/AVacFN6zWB",
+      "geo": { "place_id": "0010b4cb51ca93d8" },
+      "author_id": "1964700012"
+    },
+    {
+      "conversation_id": "1234953459461492743",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:27:03.000Z",
+      "edit_history_tweet_ids": ["1234953459461492743"],
+      "id": "1234953459461492743",
+      "text": "El interdicto, reo y profugo de la justicia\n@sebastianpinera  nos salvará\n#Covid_19\n#coronavirus https://t.co/VAJlKYGsrx",
+      "geo": { "place_id": "006b2a835a30b702" },
+      "author_id": "749687136878792704"
+    },
+    {
+      "conversation_id": "1234952755061624832",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:24:15.000Z",
+      "edit_history_tweet_ids": ["1234952755061624832"],
+      "id": "1234952755061624832",
+      "text": "¿Ya salieron todos los sectores políticos a condenar el #Coronavirus? Sólo así detendremos la epidemia. #Covid_19 #Talca",
+      "geo": { "place_id": "0010b4cb51ca93d8" },
+      "author_id": "472077062"
+    },
+    {
+      "conversation_id": "1234952574119358467",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 1
+      },
+      "created_at": "2020-03-03T21:23:32.000Z",
+      "edit_history_tweet_ids": ["1234952574119358467"],
+      "id": "1234952574119358467",
+      "text": "Trabajo en la farmacia y todos pero todos pidiéndome mascarillas, GENTE ESTÁN AGOTADAS y difícil que llegue por qué el proveedor es de China 😂 #Covid_19",
+      "geo": { "place_id": "01d461fd3da860bd" },
+      "author_id": "2423441153"
+    },
+    {
+      "conversation_id": "1234952552262840320",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:23:27.000Z",
+      "edit_history_tweet_ids": ["1234952552262840320"],
+      "id": "1234952552262840320",
+      "text": "Andan con toda la pera!!!! #Covid_19 #coronavirus https://t.co/kI3PKsJH0g",
+      "geo": { "place_id": "01d461fd3da860bd" },
+      "author_id": "297501256"
+    },
+    {
+      "conversation_id": "1234952536517419011",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:23:23.000Z",
+      "edit_history_tweet_ids": ["1234952536517419011"],
+      "id": "1234952536517419011",
+      "text": "¿Cuáles son los síntomas del Nuevo #Coronavirus #COVID_19? \nConócelos aquí si estuviste en países o zonas donde se han detectado casos o en contacto con personas que presente estos síntomas.\nPara ➕ info visita https://t.co/R5HQMRjkzP @jmanalich @arturozunigaj @ATapiaC https://t.co/S4PAfWs4Dw",
+      "geo": { "place_id": "00aae48175646039" },
+      "author_id": "783649827930402816"
+    },
+    {
+      "conversation_id": "1234933583455932416",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:22:52.000Z",
+      "edit_history_tweet_ids": ["1234952406854709254"],
+      "id": "1234952406854709254",
+      "text": "@rafaelgumucioa @VillalobosJara La falta de  amabalidad y educación es mas contagiosa y dañina que #Covid_19",
+      "in_reply_to_user_id": "150781410",
+      "geo": { "place_id": "00c4b64e7affea25" },
+      "author_id": "200632864"
+    },
+    {
+      "conversation_id": "1234952272586715137",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:22:20.000Z",
+      "edit_history_tweet_ids": ["1234952272586715137"],
+      "id": "1234952272586715137",
+      "text": "Tras el primer caso de #Covid_19 confirmado en nuestro país el llamado es la tranquilidad y a reforzar las medidas preventivas y estar antento a los síntomas. \nConsultas?\n@Salud_Responde  6003607777 https://t.co/IISY2Rmo0N",
+      "geo": { "place_id": "01eddcc654ec101c" },
+      "author_id": "1029342469757001728"
+    },
+    {
+      "conversation_id": "1234952083637444608",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:21:35.000Z",
+      "edit_history_tweet_ids": ["1234952083637444608"],
+      "id": "1234952083637444608",
+      "text": "#Talca #cagamos mientras tanto en el hospital #Covid_19 @jmanalich se filtró https://t.co/L7K9pYvKvZ",
+      "geo": { "place_id": "019f2f4e187ace41" },
+      "author_id": "755399471811485697"
+    },
+    {
+      "conversation_id": "1234951738169417729",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:20:13.000Z",
+      "edit_history_tweet_ids": ["1234951738169417729"],
+      "id": "1234951738169417729",
+      "text": "TENEMOS LA MEJOR SALUD DEL MUNDO: DE QUE SE PREOCUPAN ?\n\n#coronavirus\n#cagamos\n#Talca \n#Covid_19 https://t.co/7iUO2bNmeY",
+      "geo": { "place_id": "07d9e9c346488003" },
+      "author_id": "736580473766486016"
+    },
+    {
+      "conversation_id": "1234951653788438528",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:19:53.000Z",
+      "edit_history_tweet_ids": ["1234951653788438528"],
+      "id": "1234951653788438528",
+      "text": "Imágenes exclusivas de talca después de la llegada del #coronavirus #cagamos #Covid_19 https://t.co/erudq8ul8L",
+      "geo": { "place_id": "00dc8225055a8fdc" },
+      "author_id": "72170908"
+    },
+    {
+      "conversation_id": "1234951358719123456",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 8,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:18:42.000Z",
+      "edit_history_tweet_ids": ["1234951358719123456"],
+      "id": "1234951358719123456",
+      "text": "Hagan la Ley anticoronavirus y listo...es un virus muy violento\n #cagamos #Covid_19 #coronaviruschile",
+      "geo": { "place_id": "00c4b64e7affea25" },
+      "author_id": "145273185"
+    },
+    {
+      "conversation_id": "1234951250665443333",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:18:17.000Z",
+      "edit_history_tweet_ids": ["1234951250665443333"],
+      "id": "1234951250665443333",
+      "text": "Hoy no #Covid_19 HOY NO! #cagamos https://t.co/rM9FzP7G5O",
+      "geo": { "place_id": "00c4b64e7affea25" },
+      "author_id": "860301550333431809"
+    },
+    {
+      "conversation_id": "1234951239433097216",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:18:14.000Z",
+      "edit_history_tweet_ids": ["1234951239433097216"],
+      "id": "1234951239433097216",
+      "text": "Por weones les llego #coronavirus #CODVID19 #Covid_19 #Talca https://t.co/No9WzExO7R",
+      "geo": { "place_id": "008be613029d4ca5" },
+      "author_id": "280100175"
+    },
+    {
+      "conversation_id": "1234951141772926981",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:17:51.000Z",
+      "edit_history_tweet_ids": ["1234951141772926981"],
+      "id": "1234951141772926981",
+      "text": "¿Cuántos con ganas de una cerveza Maihue bien helada? 🙋‍♂️🙋‍♀️☝🏻🍺 ⠀\n⠀\nᴄᴇʀᴠᴇᴢᴀs ᴍᴀɪʜᴜᴇ\n\n#Chile #ULTIMAHORA #cagamos #coronavirus #Covid_19 #cerveza https://t.co/CJPpQENaKD",
+      "geo": { "place_id": "47a3cf27863714de" },
+      "author_id": "233625265"
+    },
+    {
+      "conversation_id": "1234950852051423233",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:16:42.000Z",
+      "edit_history_tweet_ids": ["1234950852051423233"],
+      "id": "1234950852051423233",
+      "text": "el tema no es pagar o no pagar, sino los montos, la reajustabilidad los tipos de contratos realizados y hasta cuándo. Por otro lado por qué persistir con q IVA sea tan importante. #Covid_19\n#avionpresidencial #ULTIMAHORA #ChileDespierto #NuevaConstitucionParaChile https://t.co/zztTaWgvoH",
+      "geo": { "place_id": "00c4b64e7affea25" },
+      "author_id": "1187336157685846017"
+    },
+    {
+      "conversation_id": "1234950686107893760",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:16:02.000Z",
+      "edit_history_tweet_ids": ["1234950686107893760"],
+      "id": "1234950686107893760",
+      "text": "El #Covid_19 llegando a Chile https://t.co/bMHyU0uBfP",
+      "geo": { "place_id": "01ee68fb632783de" },
+      "author_id": "46390988"
+    },
+    {
+      "conversation_id": "1234950673042722817",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:15:59.000Z",
+      "edit_history_tweet_ids": ["1234950673042722817"],
+      "id": "1234950673042722817",
+      "text": "Y justo aparece un \"caso de coronavirus\" en Marzo.\nPiñera y compañía desesperados\n#coronavirus #SuperTuesday #Covid_19 #ULTIMAHORA #COVID19 #UnDiaSinNosotras #3demarzo #FueraPla #FueraPiñera",
+      "geo": { "place_id": "0067ac795cb0bcc9" },
+      "author_id": "104040576"
+    },
+    {
+      "conversation_id": "1234950647444844544",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:15:53.000Z",
+      "edit_history_tweet_ids": ["1234950647444844544"],
+      "id": "1234950647444844544",
+      "text": "Igual como que ya no sacan ná comprando mascarillas en San Javier, si el virus ya lo esparció ya en estos días ¿o no? #coronaviruschile #Covid_19",
+      "geo": { "place_id": "00c4b64e7affea25" },
+      "author_id": "145273185"
+    },
+    {
+      "conversation_id": "1234950553647579137",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:15:30.000Z",
+      "edit_history_tweet_ids": ["1234950553647579137"],
+      "id": "1234950553647579137",
+      "text": "3312 3312!!! llego el COVID-19 a chilitoooo",
+      "geo": { "place_id": "0010b4cb51ca93d8" },
+      "author_id": "36870327"
+    },
+    {
+      "conversation_id": "1234950435565338624",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:15:02.000Z",
+      "edit_history_tweet_ids": ["1234950435565338624"],
+      "id": "1234950435565338624",
+      "text": "#alames #medicinasocial  el sesgo cognitivo que nos hace temer al #coronavirus #Covid_19 https://t.co/K8GPAF1lk6",
+      "geo": { "place_id": "0177fcb947770473" },
+      "author_id": "34301267"
+    },
+    {
+      "conversation_id": "1234950312001200130",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:14:33.000Z",
+      "edit_history_tweet_ids": ["1234950312001200130"],
+      "id": "1234950312001200130",
+      "text": "Ojalá no se forme paranoia con esto, sólo los resguardos necesarios. #Covid_19",
+      "geo": { "place_id": "019f5b823c2b7bae" },
+      "author_id": "202928171"
+    },
+    {
+      "conversation_id": "1234950072170926080",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:13:36.000Z",
+      "edit_history_tweet_ids": ["1234950072170926080"],
+      "id": "1234950072170926080",
+      "text": "Sé que no es popular lo que diré, pero la web del minsal tiene muy buena información. #Covid_19 #coronavirus #talca https://t.co/w83HyDZ9KD",
+      "geo": { "place_id": "008be613029d4ca5" },
+      "author_id": "226239641"
+    },
+    {
+      "conversation_id": "1234949793715232768",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:12:29.000Z",
+      "edit_history_tweet_ids": ["1234949793715232768"],
+      "id": "1234949793715232768",
+      "text": "¿Ya declararon Estado de Excepción en Talca por el #Covid_19?",
+      "geo": { "place_id": "0010b4cb51ca93d8" },
+      "author_id": "472077062"
+    },
+    {
+      "conversation_id": "1234949743664648194",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "created_at": "2020-03-03T21:12:17.000Z",
+      "edit_history_tweet_ids": ["1234949743664648194"],
+      "id": "1234949743664648194",
+      "text": "Mas peligroso que estornudo de chino #covid_19",
+      "geo": { "place_id": "0113747966068613" },
+      "author_id": "124069794"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "username": "magdafabys",
+        "location": "La Serena",
+        "id": "313328229",
+        "created_at": "2011-06-08T13:57:29.000Z",
+        "name": "Magda"
+      },
+      {
+        "username": "Alejandritaa_a",
+        "id": "171284143",
+        "created_at": "2010-07-27T00:36:09.000Z",
+        "name": "Alejandra Herrera 🇨🇱"
+      },
+      {
+        "username": "OurIsTheFury1",
+        "location": "Santiago de Chile",
+        "id": "108797190",
+        "created_at": "2010-01-27T02:07:30.000Z",
+        "name": "Robert Baratheon"
+      },
+      {
+        "username": "SilviaPaillanC",
+        "location": "Gulumapu",
+        "id": "87468422",
+        "created_at": "2009-11-04T15:57:10.000Z",
+        "name": "Silvia II"
+      },
+      {
+        "username": "MarielxLoyola",
+        "location": "Punta Arenas, Chile",
+        "id": "66573454",
+        "created_at": "2009-08-18T02:43:50.000Z",
+        "name": "Mariel 🦂"
+      },
+      {
+        "username": "Chefazza",
+        "id": "2718179765",
+        "created_at": "2014-07-19T21:45:38.000Z",
+        "name": "Chefazza"
+      },
+      {
+        "username": "edgardolovera",
+        "location": "temuco",
+        "id": "66252519",
+        "created_at": "2009-08-17T02:22:48.000Z",
+        "name": "edgardolovera"
+      },
+      {
+        "username": "JoselynHidalg29",
+        "location": "Santiago, Chile",
+        "id": "717806262856114176",
+        "created_at": "2016-04-06T20:08:44.000Z",
+        "name": "Joselyn Hidalgo"
+      },
+      {
+        "username": "Vanexvaldivia",
+        "location": "Valdivia ",
+        "id": "65838047",
+        "created_at": "2009-08-15T05:47:23.000Z",
+        "name": "La Consentida"
+      },
+      {
+        "username": "indignadosere",
+        "id": "384369841",
+        "created_at": "2011-10-03T15:23:16.000Z",
+        "name": "oximoron"
+      },
+      {
+        "username": "EmmaCascales",
+        "location": "Puerto Montt, Chile",
+        "id": "1153827008926953472",
+        "created_at": "2019-07-24T00:39:30.000Z",
+        "name": "Memmix Cook's"
+      },
+      {
+        "username": "panisamo",
+        "location": "Ñuñoa, Chile",
+        "id": "118100740",
+        "created_at": "2010-02-27T16:09:04.000Z",
+        "name": "Pablo N. Sandoval"
+      },
+      {
+        "username": "FleurDelacourje",
+        "location": "Santiago de Chile",
+        "id": "486211947",
+        "created_at": "2012-02-08T01:49:29.000Z",
+        "name": "Florencia 🌸"
+      },
+      {
+        "username": "SeremiSalud3",
+        "location": "Región de Atacama",
+        "id": "1434027672",
+        "created_at": "2013-05-16T21:30:16.000Z",
+        "name": "Seremi de Salud Atacama"
+      },
+      {
+        "username": "enriquepuentes",
+        "id": "76537611",
+        "created_at": "2009-09-23T02:46:28.000Z",
+        "name": "ً"
+      },
+      {
+        "username": "jfcozaha",
+        "location": "Concepción, Chile",
+        "id": "1142893751171465217",
+        "created_at": "2019-06-23T20:34:39.000Z",
+        "name": "Juan F. Zapata"
+      },
+      {
+        "username": "YenniVallejosM",
+        "location": "Copiapo",
+        "id": "3131111248",
+        "created_at": "2015-04-01T15:06:10.000Z",
+        "name": "Yenni Vallejos Meriño"
+      },
+      {
+        "username": "nestorgomez_go",
+        "location": "Valparaiso, Chile",
+        "id": "1197561895147974657",
+        "created_at": "2019-11-21T17:06:33.000Z",
+        "name": "Nestor Gomez"
+      },
+      {
+        "username": "LILIANARTEAGA",
+        "location": "Chile",
+        "id": "368065581",
+        "created_at": "2011-09-05T01:19:45.000Z",
+        "name": "🦋🌻🍀🦋🦋💋💜😇😈💚💜🤡🤡"
+      },
+      {
+        "username": "MABRI76",
+        "id": "1113552730289856512",
+        "created_at": "2019-04-03T21:23:54.000Z",
+        "name": "PATOCARLOSBUSTOS🖐"
+      },
+      {
+        "username": "teloestampo",
+        "id": "300504657",
+        "created_at": "2011-05-17T21:42:23.000Z",
+        "name": "teloestampo"
+      },
+      {
+        "username": "Barbara____ANT",
+        "location": "Metropolitana de Santiago",
+        "id": "118547255",
+        "created_at": "2010-03-01T01:24:46.000Z",
+        "name": "👩🏻‍⚕️🐾…"
+      },
+      {
+        "username": "MCabrera70",
+        "location": " Chile",
+        "id": "125167550",
+        "created_at": "2010-03-21T23:04:56.000Z",
+        "name": "MACACO"
+      },
+      {
+        "username": "claupalominos",
+        "location": "Providencia, Chile",
+        "id": "105174933",
+        "created_at": "2010-01-15T15:45:01.000Z",
+        "name": "Clau Palomilla"
+      },
+      {
+        "username": "javieranos",
+        "location": "Santiago, Metropolitana de San",
+        "id": "103987591",
+        "created_at": "2010-01-11T22:25:51.000Z",
+        "name": "⚽️El10 ⚽️"
+      },
+      {
+        "username": "InaGodoyM",
+        "location": "Chile",
+        "id": "101872723",
+        "created_at": "2010-01-04T21:52:38.000Z",
+        "name": "Karina Godoy"
+      },
+      {
+        "username": "matse1972",
+        "id": "2742750983",
+        "created_at": "2014-08-14T16:04:06.000Z",
+        "name": "Ni olvido Ni perdón ..Chile país de abusadores"
+      },
+      {
+        "username": "godoy_barahona",
+        "location": "Chile    instagram/Rodrigogoba",
+        "id": "839301661",
+        "created_at": "2012-09-22T07:35:34.000Z",
+        "name": "RoDrIgO Indignado."
+      },
+      {
+        "username": "DamAnonima",
+        "location": "La Florida, Chile",
+        "id": "119549573",
+        "created_at": "2010-03-04T00:09:26.000Z",
+        "name": "Sandra"
+      },
+      {
+        "username": "DCavieres",
+        "location": "Un Oasis llamado Chile (?)",
+        "id": "101106283",
+        "created_at": "2010-01-02T01:41:45.000Z",
+        "name": "#FrentePatrioticoCharlesMariano 💙"
+      },
+      {
+        "username": "michaeleduardo",
+        "location": "Chile - Concepcion",
+        "id": "60248243",
+        "created_at": "2009-07-26T06:14:15.000Z",
+        "name": "Mich🅰️el Edu🅰️rdo Roch🅰️ Fernández"
+      },
+      {
+        "username": "kiritoconex",
+        "location": "Cunco",
+        "id": "210945362",
+        "created_at": "2010-11-01T21:29:35.000Z",
+        "name": "Fernando Jorquera"
+      },
+      {
+        "username": "bullitadicta",
+        "location": "Viña del Mar, Valparaíso",
+        "id": "2799192739",
+        "created_at": "2014-09-09T04:05:35.000Z",
+        "name": "🤘PEPA"
+      },
+      {
+        "username": "RoOlivares3",
+        "location": "Chile",
+        "id": "1013902043529056256",
+        "created_at": "2018-07-02T21:47:39.000Z",
+        "name": "Ro Olivares"
+      },
+      {
+        "username": "clauchileno",
+        "location": "ÜT: -33.530486,-70.649455",
+        "id": "18435565",
+        "created_at": "2008-12-28T22:24:16.000Z",
+        "name": "Seguimos! nada está perdido."
+      },
+      {
+        "username": "Roxananavarrete",
+        "id": "200632864",
+        "created_at": "2010-10-09T20:27:22.000Z",
+        "name": "Roky"
+      },
+      {
+        "username": "SavkaQuiroga",
+        "location": "CHILE",
+        "id": "119966267",
+        "created_at": "2010-03-05T02:41:54.000Z",
+        "name": "OleoDeUnaMujer 🌳"
+      },
+      {
+        "username": "PatoSalinasSoto",
+        "location": "Santiago, Chile. Brighton, UK.",
+        "id": "104330870",
+        "created_at": "2010-01-13T01:07:50.000Z",
+        "name": "PatoSa"
+      },
+      {
+        "username": "Fernand77086996",
+        "id": "1187336157685846017",
+        "created_at": "2019-10-24T11:53:26.000Z",
+        "name": "Fernando zuleta"
+      },
+      {
+        "username": "fiskalisimo",
+        "location": "Licantén, Chile",
+        "id": "1183457727521218562",
+        "created_at": "2019-10-13T19:01:32.000Z",
+        "name": "fiskalisimo"
+      },
+      {
+        "username": "infoproprevenc1",
+        "location": "Santiago, Chile",
+        "id": "996380008330465280",
+        "created_at": "2018-05-15T13:21:20.000Z",
+        "name": "PROPREVENCION"
+      },
+      {
+        "username": "Sir__Lurex",
+        "location": "Seven Seas of Rhye",
+        "id": "363423577",
+        "created_at": "2011-08-28T02:11:07.000Z",
+        "name": "Esteb🅰️n"
+      },
+      {
+        "username": "arayacristi13",
+        "location": "santiago de Chile ",
+        "id": "937977642",
+        "created_at": "2012-11-09T23:27:35.000Z",
+        "name": "Luis Hernán 🌳🌳🌳🇨🇱🇨🇱🇨🇱🎄🎄🎄"
+      },
+      {
+        "username": "valetorresz",
+        "location": "Chile",
+        "id": "118786133",
+        "created_at": "2010-03-01T19:03:27.000Z",
+        "name": "🌳Vale Patipelada T ♡🌳"
+      },
+      {
+        "username": "Gatolok0_0",
+        "location": "Viña del mar -  Chile ",
+        "id": "87031012",
+        "created_at": "2009-11-02T21:19:18.000Z",
+        "name": "Alejandro"
+      },
+      {
+        "username": "fra_borquez",
+        "location": "Buin, Chile",
+        "id": "146250705",
+        "created_at": "2010-05-21T00:05:49.000Z",
+        "name": "Fran 😆 🌳"
+      },
+      {
+        "username": "juan_collante",
+        "location": "Coquimbo, Chile",
+        "id": "72170908",
+        "created_at": "2009-09-07T01:22:55.000Z",
+        "name": "Juan Collante"
+      },
+      {
+        "username": "franandrese",
+        "id": "129907431",
+        "created_at": "2010-04-05T19:32:18.000Z",
+        "name": "A Mi Nadie Me Lee😁"
+      },
+      {
+        "username": "CesarBarraza4",
+        "location": "Santiago, Chile",
+        "id": "352598746",
+        "created_at": "2011-08-10T21:03:34.000Z",
+        "name": "Cesar"
+      },
+      {
+        "username": "SaludMagallanes",
+        "location": "Punta Arenas, Chile",
+        "id": "783649827930402816",
+        "created_at": "2016-10-05T12:47:33.000Z",
+        "name": "Salud Magallanes"
+      },
+      {
+        "username": "MGaBrieLG",
+        "location": "Chile",
+        "id": "193146375",
+        "created_at": "2010-09-21T02:31:56.000Z",
+        "name": "M.Gabriel Gonzalez"
+      },
+      {
+        "username": "brontoscorpia",
+        "location": "Valparaíso, Chile",
+        "id": "632424009",
+        "created_at": "2012-07-10T21:49:26.000Z",
+        "name": "ignacio"
+      },
+      {
+        "username": "solo_el_sebas",
+        "location": "Paradero 8 Av. Las Condes",
+        "id": "118473381",
+        "created_at": "2010-02-28T20:12:15.000Z",
+        "name": "Sebas"
+      },
+      {
+        "username": "50Viejo",
+        "location": "Chile",
+        "id": "971171334188388353",
+        "created_at": "2018-03-06T23:51:04.000Z",
+        "name": "Viejo de 50"
+      },
+      {
+        "username": "girovisualtv",
+        "location": "Valparaíso, Chile",
+        "id": "177322353",
+        "created_at": "2010-08-11T20:59:24.000Z",
+        "name": "Girovisual Televisión"
+      },
+      {
+        "username": "alejo2k2x",
+        "location": "Curicó, Chile",
+        "id": "2562476732",
+        "created_at": "2014-06-12T02:10:08.000Z",
+        "name": "Alejandro | Streamer - Desarrollador"
+      },
+      {
+        "username": "eeyc78",
+        "location": "Punta Arenas",
+        "id": "75673770",
+        "created_at": "2009-09-19T23:58:40.000Z",
+        "name": "Fuera A$UL A$UL"
+      },
+      {
+        "username": "MovistaChiIe",
+        "location": "Chile",
+        "id": "615401134",
+        "created_at": "2012-06-22T18:08:50.000Z",
+        "name": "Movistar ChiIe"
+      },
+      {
+        "username": "raulbeltranc",
+        "location": "Santiago, Chile",
+        "id": "177978358",
+        "created_at": "2010-08-13T15:12:49.000Z",
+        "name": "Raúl Beltrán"
+      },
+      {
+        "username": "Bastian_Rod",
+        "location": "Viña del Mar.",
+        "id": "280100175",
+        "created_at": "2011-04-10T16:47:49.000Z",
+        "name": "Bastian Rodriguez"
+      },
+      {
+        "username": "jriverosdvj",
+        "id": "755399471811485697",
+        "created_at": "2016-07-19T13:50:43.000Z",
+        "name": "Jonathan Riveros"
+      },
+      {
+        "username": "dagmit",
+        "location": "En alguna parte de Chile ",
+        "id": "45757395",
+        "created_at": "2009-06-09T03:51:08.000Z",
+        "name": "Magda_sin_lena 💚"
+      },
+      {
+        "username": "Sir_fox_",
+        "location": "santiago de chile",
+        "id": "1964700012",
+        "created_at": "2013-10-16T13:01:11.000Z",
+        "name": "🦊 Sir Fox 🦊"
+      },
+      {
+        "username": "alopezletelier",
+        "id": "749687136878792704",
+        "created_at": "2016-07-03T19:31:56.000Z",
+        "name": "💙💛Diecisiete Cero💙💛"
+      },
+      {
+        "username": "Dieigou",
+        "location": "Chile",
+        "id": "472077062",
+        "created_at": "2012-01-23T15:38:44.000Z",
+        "name": "Diego"
+      },
+      {
+        "username": "busta20bruno",
+        "location": "santiago-chile",
+        "id": "2423441153",
+        "created_at": "2014-03-19T21:32:03.000Z",
+        "name": "bruno_andres 🌳"
+      },
+      {
+        "username": "JonyDelaFuente",
+        "location": "Chile",
+        "id": "297501256",
+        "created_at": "2011-05-12T16:26:26.000Z",
+        "name": "🏳️🏴El De La Efe"
+      },
+      {
+        "username": "STalcahuano",
+        "location": "Colón 3030, Talcahuano, Chile",
+        "id": "1029342469757001728",
+        "created_at": "2018-08-14T12:22:23.000Z",
+        "name": "SS Talcahuano"
+      },
+      {
+        "username": "11816660H",
+        "location": "Iquique, Chile",
+        "id": "736580473766486016",
+        "created_at": "2016-05-28T15:30:44.000Z",
+        "name": "HEGO"
+      },
+      {
+        "username": "De_la_Caro",
+        "location": "Chile",
+        "id": "145273185",
+        "created_at": "2010-05-18T15:05:25.000Z",
+        "name": "🛫LaCarolina🌎💃🏻"
+      },
+      {
+        "username": "jeantestaa",
+        "location": "Santiago, Chile",
+        "id": "860301550333431809",
+        "created_at": "2017-05-05T01:14:08.000Z",
+        "name": "Jean Franco Petit"
+      },
+      {
+        "username": "CervezasMaihue",
+        "location": "Curicó, Chile",
+        "id": "233625265",
+        "created_at": "2011-01-03T18:30:00.000Z",
+        "name": "Cerveza Maihue"
+      },
+      {
+        "username": "_Zamoth_",
+        "location": "Puerto Montt, Chile",
+        "id": "46390988",
+        "created_at": "2009-06-11T13:56:20.000Z",
+        "name": "Cristian J. Villarroel A."
+      },
+      {
+        "username": "Alfredo_Kine",
+        "location": "Chile",
+        "id": "104040576",
+        "created_at": "2010-01-12T02:19:35.000Z",
+        "name": "Alfredo Castañeda"
+      },
+      {
+        "username": "xeduardog",
+        "location": "Chile",
+        "id": "36870327",
+        "created_at": "2009-05-01T03:27:08.000Z",
+        "name": "Eduardo G! ❤️‍🩹"
+      },
+      {
+        "username": "panxo_xavier",
+        "location": "Arica, Chile.",
+        "id": "34301267",
+        "created_at": "2009-04-22T15:27:11.000Z",
+        "name": "Francisco Olivares A"
+      },
+      {
+        "username": "dcantillanol",
+        "location": "Viña del Mar ,Chile",
+        "id": "202928171",
+        "created_at": "2010-10-15T03:44:38.000Z",
+        "name": "Diego Cantillano L."
+      },
+      {
+        "username": "Yo_La_Tengo_",
+        "location": "Valparaiso, pobre pero sexy",
+        "id": "226239641",
+        "created_at": "2010-12-13T17:40:33.000Z",
+        "name": "Pablo Uneru JD(He/Him)"
+      },
+      {
+        "username": "nayato31",
+        "location": "Santiago, Chile",
+        "id": "124069794",
+        "created_at": "2010-03-18T04:41:47.000Z",
+        "name": "£€π©¥π!oπ"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1234991901087895552",
+    "oldest_id": "1234949743664648194",
+    "result_count": 96,
+    "next_token": "b26v89c19zqg8o3fo74fa2h1i0ja15wp8o04v3cq54399"
+  }
+}

@@ -1,0 +1,1449 @@
+{
+  "data": [
+    {
+      "geo": { "place_id": "0df6ac4d361d4e0e" },
+      "text": "@rtve @Joana_Salas Go covid!!!! https://t.co/wx87k6KdtJ",
+      "edit_history_tweet_ids": ["1237340121244078080"],
+      "id": "1237340121244078080",
+      "in_reply_to_user_id": "26729931",
+      "created_at": "2020-03-10T11:30:48.000Z",
+      "conversation_id": "1237338947535192064",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "404099644"
+    },
+    {
+      "geo": { "place_id": "ffb7261abbaa67ed" },
+      "text": "Ningún famoso tiene COVID-19. Acto capitalista o epidemia natural??",
+      "edit_history_tweet_ids": ["1237338808863133696"],
+      "id": "1237338808863133696",
+      "created_at": "2020-03-10T11:25:35.000Z",
+      "conversation_id": "1237338808863133696",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "824910410"
+    },
+    {
+      "geo": { "place_id": "07f70a23853105b1" },
+      "text": "“Clinical course and risk factors for mortality of adult\ninpatients with COVID-19 in Wuhan. The potential risk factors of older age, high SOFA score, and d-dimer greater than 1 μg/L could help clinicians to identify patients with poor prognosis at an early stage” #COVID2019 https://t.co/nbvasWrQyl",
+      "edit_history_tweet_ids": ["1237337319696367616"],
+      "id": "1237337319696367616",
+      "created_at": "2020-03-10T11:19:40.000Z",
+      "conversation_id": "1237337319696367616",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0
+      },
+      "author_id": "960133322600001536"
+    },
+    {
+      "geo": { "place_id": "342f9faf7392d4ce" },
+      "text": "UGT denuncia que personal del San Pedro sin formación en COVID-19 está en contacto con pacientes https://t.co/RykbQ0poaZ vía @lariojacom #Hospitalsanpedro #Coronavirus @Riojasalud #Logroño #sanidadpublica #TCAE",
+      "edit_history_tweet_ids": ["1237336973888688133"],
+      "id": "1237336973888688133",
+      "created_at": "2020-03-10T11:18:17.000Z",
+      "conversation_id": "1237336973888688133",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "107022588"
+    },
+    {
+      "geo": {
+        "place_id": "206c436ce43a43a3",
+        "coordinates": { "type": "Point", "coordinates": [-3.68333, 40.4] }
+      },
+      "text": "Comunicado COVID-19: Siguiendo las recomendaciones de la Comunidad de Madrid se suspende la actividad docente presencial a partir del miércoles 11 de marzo durante 15 días inicialmente. Mantenemos las actividades… https://t.co/8AIFo9ET6b",
+      "edit_history_tweet_ids": ["1237336775099584513"],
+      "id": "1237336775099584513",
+      "created_at": "2020-03-10T11:17:30.000Z",
+      "conversation_id": "1237336775099584513",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "705103290095239168"
+    },
+    {
+      "geo": { "place_id": "e754b9e74dcbc599" },
+      "text": "El crecimiento del COVID-19 en España ya es mayor que en Italia. https://t.co/jUy4ddBuAD",
+      "edit_history_tweet_ids": ["1237331049677574144"],
+      "id": "1237331049677574144",
+      "created_at": "2020-03-10T10:54:45.000Z",
+      "conversation_id": "1237331049677574144",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "364878367"
+    },
+    {
+      "geo": { "place_id": "8c86b8b4cb716103" },
+      "text": "Tal día como hoy del año 1876 el inventor británico Alexander Graham Bell mantiene su primera conversación telefónica con un ayudante que estaba en una habitación contigua en una casa de huéspedes en Boston, y vosotros ahí, compartiendo bulos del COVID-19 por WhatsApp. https://t.co/OYNGE0GIqk",
+      "edit_history_tweet_ids": ["1237330306061021185"],
+      "id": "1237330306061021185",
+      "created_at": "2020-03-10T10:51:48.000Z",
+      "conversation_id": "1237330306061021185",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 9,
+        "quote_count": 1
+      },
+      "author_id": "545031680"
+    },
+    {
+      "geo": {
+        "place_id": "a01c2be8c5283147",
+        "coordinates": { "type": "Point", "coordinates": [-16.7167, 28.05] }
+      },
+      "text": "hace 15 dias han puesto un hotel con 1000 personas in cuarantena.....hoy, mientras en toda españa se toman medidas para bloquear la epidemia de covid-19, pidiendo a la jente de quedarse en casa, cerrando escuelas,… https://t.co/riEFI2KZol",
+      "edit_history_tweet_ids": ["1237329844448514053"],
+      "id": "1237329844448514053",
+      "created_at": "2020-03-10T10:49:58.000Z",
+      "conversation_id": "1237329844448514053",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "427392216"
+    },
+    {
+      "geo": { "place_id": "6fe43fdcf6735ba2" },
+      "text": "¿Se suspenden todas mas Ligas? ¿Solo Italia? ¿Asta donde vamos a llegar por un Virus? #Coronavirusmadrid #conquis8 #Coronavid19 #CoronavirusESP #Covid_19 #Covid_19italia #coronavirus #SiguemeYTeSigoDeVuelta #SiguemeYTeSigo #SiguemeYTeSigoAlInstante https://t.co/l0o2FI58EQ",
+      "edit_history_tweet_ids": ["1237329669285961728"],
+      "id": "1237329669285961728",
+      "created_at": "2020-03-10T10:49:16.000Z",
+      "conversation_id": "1237329669285961728",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "1234204645364584450"
+    },
+    {
+      "geo": { "place_id": "7d4c14e53b70d1f8" },
+      "text": "Covid-19: Pedro Sánchez sabía el 4M que debía elevar las medidas por el coronavirus pero no actuó hasta que pasó el https://t.co/qukYXwgZhy ve que sigue como siempre es hueco que pase el tiempo y se arregle solo,papanatas  https://t.co/xf5uzWQNkF",
+      "edit_history_tweet_ids": ["1237325854855901186"],
+      "id": "1237325854855901186",
+      "created_at": "2020-03-10T10:34:06.000Z",
+      "conversation_id": "1237325854855901186",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "43573889"
+    },
+    {
+      "geo": { "place_id": "071a52d3a927a1b8" },
+      "text": "Y sí, ya se que el COVID-19 no es nada grave, lo grave es llegar a la situación de Italia, paralizar el país solo cuando el sistema sanitario se vea colapsado. Un error muy grande que hará que se tarde más en estabilizar y controlar  el virus.",
+      "edit_history_tweet_ids": ["1237325780990005248"],
+      "id": "1237325780990005248",
+      "in_reply_to_user_id": "3021676391",
+      "created_at": "2020-03-10T10:33:49.000Z",
+      "conversation_id": "1237323096186650624",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 1
+      },
+      "author_id": "3021676391"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "Tras estar en Italia este pasado fin de semana, el presidente de @Europarl_EN  @DavidSassoli ejercerá sus funciones aislado en casa durante 14 días @CNNEE https://t.co/6nkE0uDLfd",
+      "edit_history_tweet_ids": ["1237324488473219073"],
+      "id": "1237324488473219073",
+      "created_at": "2020-03-10T10:28:41.000Z",
+      "conversation_id": "1237324488473219073",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "312896596"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "En 3 días estaremos matando a nuestros vecinos para robarles la comida, el COVID arrasa x donde pasa \nApocalipsis Zombie así sonáis algunos panda d desgraciaos hijos d las mio putas",
+      "edit_history_tweet_ids": ["1237323898577997826"],
+      "id": "1237323898577997826",
+      "created_at": "2020-03-10T10:26:20.000Z",
+      "conversation_id": "1237323898577997826",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "author_id": "827821578381570048"
+    },
+    {
+      "geo": { "place_id": "1a27537478dd8e38" },
+      "text": "COVID-19 will expose, yet again, America’s disdain for the poor, the marginalized, and the most vulnerable. Health inequity will propagate the virus across the US. #HealthForAll https://t.co/Nyka6qp0B7",
+      "edit_history_tweet_ids": ["1237323343436578816"],
+      "id": "1237323343436578816",
+      "created_at": "2020-03-10T10:24:08.000Z",
+      "conversation_id": "1237323343436578816",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0
+      },
+      "author_id": "1105757035528966144"
+    },
+    {
+      "geo": { "place_id": "378d45460703dba1" },
+      "text": "https://t.co/cchZyVQNKo Océanos y crustáceos criados en aguas con Phc más ácida. Covid - 19 ensayo sobre plankton.",
+      "edit_history_tweet_ids": ["1237321555899752448"],
+      "id": "1237321555899752448",
+      "created_at": "2020-03-10T10:17:01.000Z",
+      "conversation_id": "1237321555899752448",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "1205541790293643265"
+    },
+    {
+      "geo": { "place_id": "ae24a749d89baaf8" },
+      "text": "ℹ️🔴⚠️ Recomendaciones para prevenir el contagio del #coronavirus 👇 #Coslada #Covid_19 #CoronavirusESP @SaludMadrid @ComunidadMadrid @sanidadgob https://t.co/iWwqbgeCDI",
+      "edit_history_tweet_ids": ["1237319575731142657"],
+      "id": "1237319575731142657",
+      "created_at": "2020-03-10T10:09:09.000Z",
+      "conversation_id": "1237319575731142657",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "369470274"
+    },
+    {
+      "geo": { "place_id": "387b00909c2e7031" },
+      "text": "The effect of coronavirus is so extreme you can see it from space -\nAs COVID-19 spreads, the dramatic effect it is having on industry and travel is clearing the skies of CO2 emissions.\nhttps://t.co/radaNo6tVU",
+      "edit_history_tweet_ids": ["1237319308411166720"],
+      "id": "1237319308411166720",
+      "created_at": "2020-03-10T10:08:06.000Z",
+      "conversation_id": "1237319308411166720",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "author_id": "145609779"
+    },
+    {
+      "geo": { "place_id": "9752e71bc4f5466f" },
+      "text": "¡¡¡¡ESTAMOS INFECTADOS!!!!\n\nY somos felices.\n\n#rugby #rugbygram #rugbymemes #jumilla #rugbyplayer #tackle #coronavirus #covid_19 https://t.co/Kk0VmzXRrh",
+      "edit_history_tweet_ids": ["1237319049857638400"],
+      "id": "1237319049857638400",
+      "created_at": "2020-03-10T10:07:04.000Z",
+      "conversation_id": "1237319049857638400",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 1
+      },
+      "author_id": "1188389623581564928"
+    },
+    {
+      "geo": { "place_id": "8c86b8b4cb716103" },
+      "text": "En plena crisis del COVID-19, Pedro Sánchez sigue escondiendo la cabeza cual avestruz.\n#Coronavirus https://t.co/bTIka1PhBT",
+      "edit_history_tweet_ids": ["1237318933134413825"],
+      "id": "1237318933134413825",
+      "created_at": "2020-03-10T10:06:36.000Z",
+      "conversation_id": "1237318933134413825",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "author_id": "236736864"
+    },
+    {
+      "geo": { "place_id": "0a228ec2c44f00e3" },
+      "text": "El virus \"SARS-Cov-2\" os saluda (siento que no sepa sonreír bien) 📸.\n\nY esta deseando meternos una \"COVID-19\" llena de tos, fiebre y dolor muscular para poder reproducirse, no lo olvidéis 🤷🏻‍♂️. https://t.co/9JYrs3VnEI",
+      "edit_history_tweet_ids": ["1237318414827507713"],
+      "id": "1237318414827507713",
+      "created_at": "2020-03-10T10:04:33.000Z",
+      "conversation_id": "1237318414827507713",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "41386973"
+    },
+    {
+      "geo": { "place_id": "2afe3164f39d1b83" },
+      "text": "The way this COVID-19 situation is spreading is scary. Outside Asia, the second affected continent is EUROPE. Italy coming second behind China with 9172 cases. France, Germany and Spain are currently reporting cases in their thousands (as of today).",
+      "edit_history_tweet_ids": ["1237316495237136384"],
+      "id": "1237316495237136384",
+      "created_at": "2020-03-10T09:56:55.000Z",
+      "conversation_id": "1237316495237136384",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "1009194350444711936"
+    },
+    {
+      "geo": { "place_id": "a6646ccc6fe50273" },
+      "text": "Y aún así, el gobierno que tú sí apoyas trajo a un enfermo de ébola, que ya sabemos que no es tan malo como el Covid-19.\n\nApestáis a rancio a la legua. https://t.co/tIU8hBblje",
+      "edit_history_tweet_ids": ["1237316281541558272"],
+      "id": "1237316281541558272",
+      "created_at": "2020-03-10T09:56:04.000Z",
+      "conversation_id": "1237316281541558272",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "281199853"
+    },
+    {
+      "geo": { "place_id": "c0d79e142be0c427" },
+      "text": "@roi_cal @MrSocarron @Farmaceuticos_ @PresidenteCGCOF @bmj_latest Nos adherimos al editorial del Corriere della sera “Hace mucho tiempo que aprendimos a vivir solo de los derechos. Ha llegado el momento de los deberes\" #Covid_19",
+      "edit_history_tweet_ids": ["1237316042528940033"],
+      "id": "1237316042528940033",
+      "in_reply_to_user_id": "2745458242",
+      "created_at": "2020-03-10T09:55:07.000Z",
+      "conversation_id": "1237288056400609281",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "266486016"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "Los medios de comunicación (ALGUNOS) muy probablemente están haciendo mucho daño, aparte de la escasa capacidad de raciocinio profundo - por desgracia - de algunas personas.\n #Covid_19",
+      "edit_history_tweet_ids": ["1237315766514581511"],
+      "id": "1237315766514581511",
+      "in_reply_to_user_id": "4706911353",
+      "created_at": "2020-03-10T09:54:01.000Z",
+      "conversation_id": "1237315758809665536",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "4706911353"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "No sabéis el pánico psicológico que transmite eso, y no es justo.  :-(\nAparte de la indignación, sabiendo que mucha de la gente se la pone sin ser científicamente necesario en los casos concretos.  (opinión)\n¡Mucha rabia! \n #Covid_19",
+      "edit_history_tweet_ids": ["1237315764149006337"],
+      "id": "1237315764149006337",
+      "in_reply_to_user_id": "4706911353",
+      "created_at": "2020-03-10T09:54:01.000Z",
+      "conversation_id": "1237315758809665536",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "4706911353"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "Si vais a moveros en metro, autobús, etc con mascarilla y a no ser que sea como algo que se os ha prescrito imperativamente, mejor no salgáis a ningún lado y quedaros unos diillas en casa.  (opinión) \n #Covid_19   #FelizMartes #Coronavirusmadrid",
+      "edit_history_tweet_ids": ["1237315758809665536"],
+      "id": "1237315758809665536",
+      "created_at": "2020-03-10T09:53:59.000Z",
+      "conversation_id": "1237315758809665536",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "4706911353"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "No es la primera vez (no será la última) que @jorgecrespocano me recuerda al mejor de los @forges, el que derrochaba sentido común a través del humor. En este caso muy rojiblanco. Gracias por el retrato, es como si estuvieras dentro de mi cabeza. Un abrazo (con COVID-20) https://t.co/Me17ng3SsK",
+      "edit_history_tweet_ids": ["1237313751440908290"],
+      "id": "1237313751440908290",
+      "created_at": "2020-03-10T09:46:01.000Z",
+      "conversation_id": "1237313751440908290",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 1,
+        "like_count": 32,
+        "quote_count": 0
+      },
+      "author_id": "4737033927"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "Como algunos ya sabéis, iba a realizar el examen de Estado de Abogacía el 28 de marzo.\n\nBien, se ha suspendido por el COVID-19.",
+      "edit_history_tweet_ids": ["1237312453039525888"],
+      "id": "1237312453039525888",
+      "created_at": "2020-03-10T09:40:51.000Z",
+      "conversation_id": "1237312453039525888",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 0
+      },
+      "author_id": "403631057"
+    },
+    {
+      "geo": { "place_id": "e33e4320799106da" },
+      "text": "Primer día sin prácticas por el jodido Covid-19, que dure poco, que si no volveré a ser marmota y no quiero 🥺🙏🏼",
+      "edit_history_tweet_ids": ["1237312199305109504"],
+      "id": "1237312199305109504",
+      "created_at": "2020-03-10T09:39:51.000Z",
+      "conversation_id": "1237312199305109504",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 7,
+        "quote_count": 0
+      },
+      "author_id": "4492092437"
+    },
+    {
+      "geo": { "place_id": "00ab08eef1b62e92" },
+      "text": "Tu ayuda es fundamental para contener el COVID-19.\nSi tienes dolor de garganta, tos, fiebre o problemas respiratorios, NO acudas a visitar a personas al hospital u otro lugar concurrido.\n\nTeléfono 900 112 061 (línea gratuita) de @SanidadGobCan para resolver cualquier duda. https://t.co/qdX7l5NlEY",
+      "edit_history_tweet_ids": ["1237310389198696448"],
+      "id": "1237310389198696448",
+      "created_at": "2020-03-10T09:32:39.000Z",
+      "conversation_id": "1237310389198696448",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "author_id": "947825418865954816"
+    },
+    {
+      "geo": { "place_id": "1a27537478dd8e38" },
+      "text": "Recomanacions de la Intersindical-CSC en relació al coronavirus (COVID 19) als centres de treball https://t.co/BexrvBXFdG via @I_CSC https://t.co/0By6G56Y06",
+      "edit_history_tweet_ids": ["1237309368594563072"],
+      "id": "1237309368594563072",
+      "created_at": "2020-03-10T09:28:36.000Z",
+      "conversation_id": "1237309368594563072",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0
+      },
+      "author_id": "1110981402827333637"
+    },
+    {
+      "geo": { "place_id": "07f70a23853105b1" },
+      "text": "La OMS informa: “De los cuatro países con más casos, China está logrando controlar su epidemia de COVID-19 y además está cayendo el número de casos reportados desde Corea del Sur”\nhttps://t.co/0V32C1JJAd",
+      "edit_history_tweet_ids": ["1237308741508358144"],
+      "id": "1237308741508358144",
+      "created_at": "2020-03-10T09:26:06.000Z",
+      "conversation_id": "1237308741508358144",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "960133322600001536"
+    },
+    {
+      "geo": { "place_id": "3a9c654a445000f6" },
+      "text": "@franzspace Están esperando a que el gobierno chino les mande el expediente académico del Covid-19 que aquí no entra to el mundo",
+      "edit_history_tweet_ids": ["1237308054762373120"],
+      "id": "1237308054762373120",
+      "in_reply_to_user_id": "814984393215381504",
+      "created_at": "2020-03-10T09:23:22.000Z",
+      "conversation_id": "1237307050549526528",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 6,
+        "quote_count": 0
+      },
+      "author_id": "519703165"
+    },
+    {
+      "geo": { "place_id": "1a27537478dd8e38" },
+      "text": "Una empresa catalana crea un aparell que detecta el Covid-19 en una hora https://t.co/ZlTaU9qBDD",
+      "edit_history_tweet_ids": ["1237307905625460737"],
+      "id": "1237307905625460737",
+      "created_at": "2020-03-10T09:22:47.000Z",
+      "conversation_id": "1237307905625460737",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "252133791"
+    },
+    {
+      "geo": { "place_id": "6d564e12cf533f7a" },
+      "text": "El crecimiento del #COVIDー19 en España ya es mayor https://t.co/N9WhxMoUqX",
+      "edit_history_tweet_ids": ["1237306728548614144"],
+      "id": "1237306728548614144",
+      "created_at": "2020-03-10T09:18:06.000Z",
+      "conversation_id": "1237306728548614144",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "2601862964"
+    },
+    {
+      "geo": { "place_id": "2afe3164f39d1b83" },
+      "text": "La prevención individual es la realmente efectiva frente al #coronavirius How will country-based mitigation measures influence the course of the COVID-19 epidemic? https://t.co/OnghwWZVf6",
+      "edit_history_tweet_ids": ["1237305425583841282"],
+      "id": "1237305425583841282",
+      "created_at": "2020-03-10T09:12:56.000Z",
+      "conversation_id": "1237305425583841282",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "501128843"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "Can you feel the Covid tonight (8)",
+      "edit_history_tweet_ids": ["1237303853772607488"],
+      "id": "1237303853772607488",
+      "created_at": "2020-03-10T09:06:41.000Z",
+      "conversation_id": "1237303853772607488",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "1418071368"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "@davizsierra Lo he vivido esta mañana en mis propias carnes. He ido a por café y me he venido abajo al pensar en la cantidad de alimentos que se van a caducar por culpa del COVID-19. \nLuego he pensado que quizá sea para dar de comer a los niños que ya no se van a quedar en el comedor. Locura.",
+      "edit_history_tweet_ids": ["1237303842913619969"],
+      "id": "1237303842913619969",
+      "in_reply_to_user_id": "164186322",
+      "created_at": "2020-03-10T09:06:38.000Z",
+      "conversation_id": "1237302809088884737",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "57716643"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "No es la primera vez (no será la última) que @jorgecrespocano me recuerda al mejor de los @forges, el que derrochaba sentido común a través del humor. En este caso muy rojiblanco. Gracias por el retrato, es como si estuvieras dentro de mi cabeza. Un abrazo (con COVID-20) https://t.co/PdiV8Xd5nB",
+      "edit_history_tweet_ids": ["1237303094297460736"],
+      "id": "1237303094297460736",
+      "created_at": "2020-03-10T09:03:40.000Z",
+      "conversation_id": "1237303094297460736",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 8,
+        "quote_count": 0
+      },
+      "author_id": "57716643"
+    },
+    {
+      "geo": { "place_id": "507a015cba6ef518" },
+      "text": "Debemos seguir las recomendaciones de las autoridades sanitarias para frenar la expansión del coronavirus COVID-19. El tema es serio pero controlable si bloqueamos las vías de contagio. https://t.co/OODfxuA0Ga",
+      "edit_history_tweet_ids": ["1237300523298181121"],
+      "id": "1237300523298181121",
+      "created_at": "2020-03-10T08:53:27.000Z",
+      "conversation_id": "1237300523298181121",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "155538729"
+    },
+    {
+      "geo": { "place_id": "1a27537478dd8e38" },
+      "text": "@Roger14_NS @LaVanguardia Me molesta que publiquen comida que dura mucho como si fuéramos a encerrarnos en un búnker a causa del puto covid-19",
+      "edit_history_tweet_ids": ["1237299886992830464"],
+      "id": "1237299886992830464",
+      "in_reply_to_user_id": "2453429155",
+      "created_at": "2020-03-10T08:50:55.000Z",
+      "conversation_id": "1237280580141801472",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "777605190392381440"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "Para quien ande perdido. COVID-19 #coronavirusespana #felizmartes https://t.co/XXk0fsSGra https://t.co/emxaqHISdN",
+      "edit_history_tweet_ids": ["1237299542586019841"],
+      "id": "1237299542586019841",
+      "created_at": "2020-03-10T08:49:33.000Z",
+      "conversation_id": "1237299542586019841",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "387643026"
+    },
+    {
+      "geo": {
+        "place_id": "0b44d497e6f73221",
+        "coordinates": { "type": "Point", "coordinates": [-3.0, 40.0] }
+      },
+      "text": "Todos con el coronavirus 🦠 \n#vecinas #valencia #vecinasdevalencia #callejeros #coronavirus #covid_19 #covid #starspanish en Spain https://t.co/6Gc0PYSuB3",
+      "edit_history_tweet_ids": ["1237298142917341184"],
+      "id": "1237298142917341184",
+      "created_at": "2020-03-10T08:43:59.000Z",
+      "conversation_id": "1237298142917341184",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "858239568356749312"
+    },
+    {
+      "geo": { "place_id": "db3ae73fb88e93d8" },
+      "text": "Y tengo tos desde que llegue a españa (por una sinusitis del orto 😂) prueba de covid-19 it’s coming",
+      "edit_history_tweet_ids": ["1237296960446611457"],
+      "id": "1237296960446611457",
+      "created_at": "2020-03-10T08:39:17.000Z",
+      "conversation_id": "1237296960446611457",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "297779647"
+    },
+    {
+      "geo": { "place_id": "5e70905ed8ad1110" },
+      "text": "Seguint les recomanacions de @salutcat s’han suspès les activitats intergeneracionals presencials dels alumnes de les escoles a les residències de la gent gran. Seguim en contacte permanent amb el @govern, ajustant els protocols per fer front als riscos del #coronavirus COVID-19",
+      "edit_history_tweet_ids": ["1237296368030494720"],
+      "id": "1237296368030494720",
+      "created_at": "2020-03-10T08:36:56.000Z",
+      "conversation_id": "1237296368030494720",
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "author_id": "80244446"
+    },
+    {
+      "geo": { "place_id": "256c7ae13104266a" },
+      "text": "Y como siempre el obrero tiene las de perder, ante el desaguisado de este Gobierno comunista que no sabe como actuar ante la epidemia del covid-19. Cierran los centros docentes y los niños los cuidan... los abuelos‼\n#coronavirusEspana\n#Coronavirusmadrid\nhttps://t.co/S6QXMsYp0f",
+      "edit_history_tweet_ids": ["1237294520980692992"],
+      "id": "1237294520980692992",
+      "created_at": "2020-03-10T08:29:36.000Z",
+      "conversation_id": "1237294520980692992",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "154165427"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "@Otto_Mas Te puedo asegurar que más de la mitad de los usuarios que acudieran a emergencias en los últimos 3 días están realmente infectados son personas mayores, Para ellos el covid-19 si es un peligro. Me duele el Alma verles tan mal, no quisiera ver a mis padres así.",
+      "edit_history_tweet_ids": ["1237293880086798341"],
+      "id": "1237293880086798341",
+      "in_reply_to_user_id": "17484356",
+      "created_at": "2020-03-10T08:27:03.000Z",
+      "conversation_id": "1237288289775878144",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "597484347"
+    },
+    {
+      "geo": { "place_id": "db3ae73fb88e93d8" },
+      "text": "Ok, he tenido una reunión y junto con otros médicos nos han suspendido 14 días por contacto con una persona con covid-19 👀👀",
+      "edit_history_tweet_ids": ["1237292615491600385"],
+      "id": "1237292615491600385",
+      "created_at": "2020-03-10T08:22:01.000Z",
+      "conversation_id": "1237292615491600385",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "297779647"
+    },
+    {
+      "geo": {
+        "place_id": "cbdb0e7018443220",
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [-1.12875817, 37.98532104]
+        }
+      },
+      "text": "Información útil y fiable! RT @circuloeconomia: Comenzamos el coloquio con José Carlos Vicente, director general de salud pública de la @regiondemurcia sobre las perspectivas de evolución del COVID-19 #coronavirus https://t.co/cRplGLDEoR",
+      "edit_history_tweet_ids": ["1237292521216147456"],
+      "id": "1237292521216147456",
+      "created_at": "2020-03-10T08:21:39.000Z",
+      "conversation_id": "1237292521216147456",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "author_id": "120047326"
+    },
+    {
+      "geo": { "place_id": "c0d79e142be0c427" },
+      "text": "@roi_cal @Farmaceuticos_ @PresidenteCGCOF Nuestro comportamiento, y el del resto de la población determinará la rapidez de propagación del covid-19. @bmj_latest \n\nNo podemos depender de los gobiernos ( ni de decisiones políticas ) 👉🏻acciones individuales \n\nhttps://t.co/JtljeBTHyS",
+      "edit_history_tweet_ids": ["1237290636035919878"],
+      "id": "1237290636035919878",
+      "in_reply_to_user_id": "2745458242",
+      "created_at": "2020-03-10T08:14:10.000Z",
+      "conversation_id": "1237288056400609281",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 1,
+        "like_count": 9,
+        "quote_count": 0
+      },
+      "author_id": "266486016"
+    },
+    {
+      "geo": { "place_id": "8c86b8b4cb716103" },
+      "text": "@chikitisimo Un chupito de electrorayo para el covid\n\nUn tratamiento\n\nChispeante",
+      "edit_history_tweet_ids": ["1237285617677078528"],
+      "id": "1237285617677078528",
+      "in_reply_to_user_id": "984750247321784321",
+      "created_at": "2020-03-10T07:54:13.000Z",
+      "conversation_id": "1237282791013986304",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "381002830"
+    },
+    {
+      "geo": { "place_id": "8c86b8b4cb716103" },
+      "text": "Mi objetivo es que si pillo el COVID, con la alergia que tengo la gente tenga que entrar en mi habitación con trajes HAZMAT, al más puro estilo Monstruos S.A https://t.co/RptpE9coDT",
+      "edit_history_tweet_ids": ["1237282791013986304"],
+      "id": "1237282791013986304",
+      "created_at": "2020-03-10T07:42:59.000Z",
+      "conversation_id": "1237282791013986304",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "author_id": "381002830"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "@profenuria @sanidadgob @ComunidadMadrid Si, con síntomas, supongo que de catarro o enfriamiento, con algo de fiebre, pero ante la alarma y los consejos de las administraciones he decidido quedarme en casa, para que me hagan la prueba de Covid-19. Pero no hay manera",
+      "edit_history_tweet_ids": ["1237282752606736384"],
+      "id": "1237282752606736384",
+      "in_reply_to_user_id": "1534703461",
+      "created_at": "2020-03-10T07:42:50.000Z",
+      "conversation_id": "1237278264831459328",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "840434599"
+    },
+    {
+      "geo": { "place_id": "1a27537478dd8e38" },
+      "text": "@LaVanguardia Un exquisito pan persa, típico plato para pasar la cuarentena por el covid-19 jajajaja",
+      "edit_history_tweet_ids": ["1237281668509114368"],
+      "id": "1237281668509114368",
+      "in_reply_to_user_id": "74453123",
+      "created_at": "2020-03-10T07:38:32.000Z",
+      "conversation_id": "1237280580141801472",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "777605190392381440"
+    },
+    {
+      "geo": { "place_id": "731c9d11275a5436" },
+      "text": "\"The president has not been tested for Covid-19 because he has not had prolonged close contact with any confirmed known patients with coronavirus, nor does he have any symptoms\" White House spokeswoman Stephanie Grisham said in a statement. 🙄🙄 https://t.co/Ej32TD53Yo",
+      "edit_history_tweet_ids": ["1237281659613073408"],
+      "id": "1237281659613073408",
+      "created_at": "2020-03-10T07:38:29.000Z",
+      "conversation_id": "1237281659613073408",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "author_id": "851394863564288001"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "How will country-based mitigation measures influence the course of the COVID-19 epidemic?\n https://t.co/GhO9efZgCw",
+      "edit_history_tweet_ids": ["1237281634606604288"],
+      "id": "1237281634606604288",
+      "created_at": "2020-03-10T07:38:23.000Z",
+      "conversation_id": "1237281634606604288",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "author_id": "357411717"
+    },
+    {
+      "geo": { "place_id": "ecdce75d48b13b64" },
+      "text": "Yo no pienso ni inmutarme por el Covid 19 (solo medidas básicas de higiene ) pero si suspenden , este programa y @JordiUrtado No aparece por el plató ,ese dia sera realmente para ACOJONARSE DE VERDAD. https://t.co/O4Xso2Rbfb",
+      "edit_history_tweet_ids": ["1237279276392685568"],
+      "id": "1237279276392685568",
+      "created_at": "2020-03-10T07:29:01.000Z",
+      "conversation_id": "1237279276392685568",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "362494015"
+    },
+    {
+      "geo": { "place_id": "a34860cb69910267" },
+      "text": "Qué curioso! todo hay cambiado a peor justo después de poder celebrar en masa una manifestación como la del 8M y no antes... Será casualidad? A mi me parece que no y todo se politiza según el interés de cada partido político en cuestión y no de los intereses generales #Covid_19 https://t.co/Fgoc2NQfOC",
+      "edit_history_tweet_ids": ["1237278619229184000"],
+      "id": "1237278619229184000",
+      "created_at": "2020-03-10T07:26:25.000Z",
+      "conversation_id": "1237278619229184000",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 3,
+        "like_count": 18,
+        "quote_count": 0
+      },
+      "author_id": "2716836146"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "Se aconseja a las empresas que se realice teletrabajo y facilitar flexibilidad horaria para la conciliación familiar. ✔️\n\nhttps://t.co/MU45HCKsYZ",
+      "edit_history_tweet_ids": ["1237278410000543744"],
+      "id": "1237278410000543744",
+      "in_reply_to_user_id": "95997640",
+      "created_at": "2020-03-10T07:25:35.000Z",
+      "conversation_id": "1237278407681101825",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "95997640"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "Estoy viendo mucho la tendencia COVID-19, ¿alguien sabe qué es eso?",
+      "edit_history_tweet_ids": ["1237275795942506497"],
+      "id": "1237275795942506497",
+      "created_at": "2020-03-10T07:15:11.000Z",
+      "conversation_id": "1237275795942506497",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0
+      },
+      "author_id": "203254184"
+    },
+    {
+      "geo": { "place_id": "206c436ce43a43a3" },
+      "text": "Haro: el funeral que acabó en cuarentena \n➡️ Las resistencias iniciales a la cuarentena de una extensa familia jarrera que se contagió en un sepelio «militariza» en La Rioja la crisis del COVID-19 https://t.co/zPofoMMio8 vía @ABC_Conocer",
+      "edit_history_tweet_ids": ["1237271975745204224"],
+      "id": "1237271975745204224",
+      "created_at": "2020-03-10T07:00:01.000Z",
+      "conversation_id": "1237271975745204224",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "158072192"
+    },
+    {
+      "geo": { "place_id": "ffaf1a469b1c15b1" },
+      "text": "@PedroWeb_ Quien no quiera pasar por el Covid solo tiene una solución. Irse a una isla del caribe donde es verano todo el año.",
+      "edit_history_tweet_ids": ["1237269043318571008"],
+      "id": "1237269043318571008",
+      "in_reply_to_user_id": "252490862",
+      "created_at": "2020-03-10T06:48:21.000Z",
+      "conversation_id": "1237142033912954881",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "286066041"
+    },
+    {
+      "geo": { "place_id": "86af6c4279c624df" },
+      "text": "Por si aún no te habías enterado, cierre de colegios, universidades y guarderías 😬\n\nhttps://t.co/CvkRnabLoz\n\n#COVID #COVID19",
+      "edit_history_tweet_ids": ["1237264423061876736"],
+      "id": "1237264423061876736",
+      "created_at": "2020-03-10T06:30:00.000Z",
+      "conversation_id": "1237264423061876736",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "author_id": "516846606"
+    },
+    {
+      "geo": { "place_id": "5361b1ecf50f3508" },
+      "text": "El partido PP pide medidas de choque para frenar el COVID. Cuando ellos recortaron derechos, y cerraron HOSTALETS privatizandolos. Pablo Casado te has perdido completamente. Gracias a Dios, hay muy buenos @MSF_Espana y no gracias a los falsos profetas",
+      "edit_history_tweet_ids": ["1237256589159038976"],
+      "id": "1237256589159038976",
+      "created_at": "2020-03-10T05:58:52.000Z",
+      "conversation_id": "1237256589159038976",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 7,
+        "quote_count": 0
+      },
+      "author_id": "1057536879258730497"
+    },
+    {
+      "geo": { "place_id": "d671eca75705ffc4" },
+      "text": "@ceskfreixas Company, no sé si pots llegir els comentaris d'aquesta publicació perquè és restringida. Si els pots llegir hi ha un lombard, Michael Dallera, que parla del que està passant a Lombardia amb gent amb refredats lleus causats  pel COVID-19 i sincerament espanta una mica",
+      "edit_history_tweet_ids": ["1237201746402906112"],
+      "id": "1237201746402906112",
+      "in_reply_to_user_id": "100082171",
+      "created_at": "2020-03-10T02:20:57.000Z",
+      "conversation_id": "1236972224235503617",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "12996382"
+    },
+    {
+      "geo": {
+        "place_id": "0b44d497e6f73221",
+        "coordinates": { "type": "Point", "coordinates": [-3.0, 40.0] }
+      },
+      "text": "Los supermercados de España ahora mismo\n#anqhv #coronavirus #pandemia #alarma #covid_19 #covid #supermercado #españa #starspanish en Spain https://t.co/xj6ld8ZE4W",
+      "edit_history_tweet_ids": ["1237188892236922880"],
+      "id": "1237188892236922880",
+      "created_at": "2020-03-10T01:29:52.000Z",
+      "conversation_id": "1237188892236922880",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "858239568356749312"
+    },
+    {
+      "geo": { "place_id": "adb12aff6d7e1cca" },
+      "text": "@UniversidadGob Una amiga muy buena médica muy está fuera de Europa estaría interesada en ayudar en la crisis del #Covid_19 pero necesitaría una homologación rápida. ¿Van a hacer algo? Italia busca 20.000 médicos y no los encuentra. España tiene cantera en LATAM. Adelantense!!!!",
+      "edit_history_tweet_ids": ["1237178743694807042"],
+      "id": "1237178743694807042",
+      "in_reply_to_user_id": "1205464890158338049",
+      "created_at": "2020-03-10T00:49:32.000Z",
+      "conversation_id": "1237178743694807042",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "author_id": "315398627"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "name": "Adrián NV",
+        "username": "AdriandeNV",
+        "id": "404099644",
+        "location": "Vigo, Spain",
+        "created_at": "2011-11-03T13:00:15.000Z"
+      },
+      {
+        "name": "Abel",
+        "username": "abelvalgreen",
+        "id": "824910410",
+        "created_at": "2012-09-15T09:28:38.000Z"
+      },
+      {
+        "name": "Sergio Vázquez",
+        "username": "OncoLucus",
+        "id": "960133322600001536",
+        "location": "Lugo, España",
+        "created_at": "2018-02-04T12:49:57.000Z"
+      },
+      {
+        "name": "Juan Bardon",
+        "username": "Juan_Bardon",
+        "id": "107022588",
+        "location": "Riello, España",
+        "created_at": "2010-01-21T10:31:44.000Z"
+      },
+      {
+        "name": "Euroflytec Aeronáutica",
+        "username": "euroflytec",
+        "id": "705103290095239168",
+        "location": "Madrid, Comunidad de Madrid",
+        "created_at": "2016-03-02T18:51:39.000Z"
+      },
+      {
+        "name": "D. N. Hidalgo  🇮🇱",
+        "username": "3000Dulce",
+        "id": "364878367",
+        "location": "Granada.España",
+        "created_at": "2011-08-30T14:08:04.000Z"
+      },
+      {
+        "name": "José Manuel Bernal",
+        "username": "berni_jmbg",
+        "id": "545031680",
+        "location": "Sevilla, España",
+        "created_at": "2012-04-04T10:53:29.000Z"
+      },
+      {
+        "name": "Fabrizio Lazzaro",
+        "username": "Fabrilazzaro",
+        "id": "427392216",
+        "location": "Playa de Las America",
+        "created_at": "2011-12-03T13:31:51.000Z"
+      },
+      {
+        "name": "Isidoro.V.S_2",
+        "username": "IsidoroVS21",
+        "id": "1234204645364584450",
+        "location": "Carmona, Spain",
+        "created_at": "2020-03-01T19:51:48.000Z"
+      },
+      {
+        "name": "kayman",
+        "username": "kayman73",
+        "id": "43573889",
+        "created_at": "2009-05-30T18:56:14.000Z"
+      },
+      {
+        "name": "LuisĞ",
+        "username": "luisgs___",
+        "id": "3021676391",
+        "location": "País Valencià",
+        "created_at": "2015-02-06T16:31:17.000Z"
+      },
+      {
+        "name": "Pau Mosquera",
+        "username": "mosquerapau",
+        "id": "312896596",
+        "location": "Madrid, Comunidad de Madrid",
+        "created_at": "2011-06-07T20:52:16.000Z"
+      },
+      {
+        "name": "Lucas",
+        "username": "lucasirib8",
+        "id": "827821578381570048",
+        "location": "Madrid, Comunidad de Madrid",
+        "created_at": "2017-02-04T10:10:19.000Z"
+      },
+      {
+        "name": "Camila Picchio",
+        "username": "capicchio",
+        "id": "1105757035528966144",
+        "location": "Barcelona, Spain",
+        "created_at": "2019-03-13T09:06:36.000Z"
+      },
+      {
+        "name": "Andrés Echeverría Ferrandez",
+        "username": "AndresFerrandez",
+        "id": "1205541790293643265",
+        "location": "España",
+        "created_at": "2019-12-13T17:35:57.000Z"
+      },
+      {
+        "name": "Ayuntamiento de Coslada",
+        "username": "Ayto_Coslada",
+        "id": "369470274",
+        "location": "Coslada, Madrid",
+        "created_at": "2011-09-07T12:18:41.000Z"
+      },
+      {
+        "name": "Adam Bishop - Mastodon: floss.social/@AdamBishop",
+        "username": "adambishop_eu",
+        "id": "145609779",
+        "location": "Granada, Spain",
+        "created_at": "2010-05-19T11:38:31.000Z"
+      },
+      {
+        "name": "Club de Rugby Jumilla",
+        "username": "crjumilla",
+        "id": "1188389623581564928",
+        "created_at": "2019-10-27T09:39:11.000Z"
+      },
+      {
+        "name": "Pedro González Rodríguez-Albariño",
+        "username": "pedrogonzalezpp",
+        "id": "236736864",
+        "created_at": "2011-01-11T07:40:39.000Z"
+      },
+      {
+        "name": "🇺🇦J. A. Argos 🇪🇸🇵🇱",
+        "username": "JAArgos",
+        "id": "41386973",
+        "location": "Cantabria, España",
+        "created_at": "2009-05-20T16:02:09.000Z"
+      },
+      {
+        "name": "El Águila of Abatete 🦅",
+        "username": "ChukwuebukaCarl",
+        "id": "1009194350444711936",
+        "created_at": "2018-06-19T22:00:57.000Z"
+      },
+      {
+        "name": "Koe J. Fry",
+        "username": "Koe78",
+        "id": "281199853",
+        "location": "Ni lo sé ni me interesa",
+        "created_at": "2011-04-12T20:50:18.000Z"
+      },
+      {
+        "name": "𝐌𝐚𝐫𝐢𝐚 𝐆. 𝐕𝐚𝐥𝐝𝐢𝐯𝐢𝐞𝐬𝐨",
+        "username": "marigvaldivieso",
+        "id": "266486016",
+        "location": "Alicante, España",
+        "created_at": "2011-03-15T09:23:25.000Z"
+      },
+      {
+        "name": "lerinow Wings",
+        "username": "ionwing363",
+        "id": "4706911353",
+        "location": "Cheboksary, Russia",
+        "created_at": "2016-01-04T17:48:51.000Z"
+      },
+      {
+        "name": "Haciendo el Indio",
+        "username": "AtletiBlogIndio",
+        "id": "4737033927",
+        "location": "Madrid, Villaverde",
+        "created_at": "2016-01-07T18:49:06.000Z"
+      },
+      {
+        "name": "Somiatruites",
+        "username": "mariano7r",
+        "id": "403631057",
+        "location": "Madrid, España",
+        "created_at": "2011-11-02T19:31:29.000Z"
+      },
+      {
+        "name": "Teresa ✨",
+        "username": "Tess_09",
+        "id": "4492092437",
+        "location": "Villamayor de Gallego ",
+        "created_at": "2015-12-15T12:47:54.000Z"
+      },
+      {
+        "name": "Emergencias Medicas Sanitarias de Canarias",
+        "username": "EMS_Canarias",
+        "id": "947825418865954816",
+        "location": "💢 Seguridad y Emergencias",
+        "created_at": "2018-01-01T13:42:44.000Z"
+      },
+      {
+        "name": "Intersindical de Barcelona Activa",
+        "username": "IntersindicalB",
+        "id": "1110981402827333637",
+        "location": "Barcelona",
+        "created_at": "2019-03-27T19:06:22.000Z"
+      },
+      {
+        "name": "Pable⭐️⭐️",
+        "username": "Pablo_keumgang",
+        "id": "519703165",
+        "location": "Getafe-Castilla",
+        "created_at": "2012-03-09T18:21:03.000Z"
+      },
+      {
+        "name": "Monti 🇺🇦🕊",
+        "username": "MontiBcn",
+        "id": "252133791",
+        "location": "Catalunya",
+        "created_at": "2011-02-14T15:23:21.000Z"
+      },
+      {
+        "name": "Extremeño",
+        "username": "GuitoEx",
+        "id": "2601862964",
+        "created_at": "2014-07-03T15:49:51.000Z"
+      },
+      {
+        "name": "Charo Vallelado",
+        "username": "CharoVallelado",
+        "id": "501128843",
+        "location": "Valladolid España",
+        "created_at": "2012-02-23T20:36:54.000Z"
+      },
+      {
+        "name": "RandomDragon",
+        "username": "Random_Dragon",
+        "id": "1418071368",
+        "location": "50 isodosis de Gray, Terrassa",
+        "created_at": "2013-05-10T13:14:50.000Z"
+      },
+      {
+        "name": "Santi Riesco",
+        "username": "santiriesco",
+        "id": "57716643",
+        "location": "Madrid, C. del Narcea, Sestao.",
+        "created_at": "2009-07-17T18:27:22.000Z"
+      },
+      {
+        "name": "Antonio Souviron",
+        "username": "asouvi",
+        "id": "155538729",
+        "created_at": "2010-06-14T12:14:51.000Z"
+      },
+      {
+        "name": "Yesurún Moreno🔻",
+        "username": "Yesu_1995",
+        "id": "777605190392381440",
+        "location": "Barcelona, España",
+        "created_at": "2016-09-18T20:28:19.000Z"
+      },
+      {
+        "name": "Alberto García",
+        "username": "AlberGarciaS",
+        "id": "387643026",
+        "location": "Madrid, España",
+        "created_at": "2011-10-09T12:26:20.000Z"
+      },
+      {
+        "name": "Star Spanish",
+        "username": "star_spanish",
+        "id": "858239568356749312",
+        "created_at": "2017-04-29T08:40:33.000Z"
+      },
+      {
+        "name": "Esteban Arturo",
+        "username": "esteartu94",
+        "id": "297779647",
+        "location": "Chile",
+        "created_at": "2011-05-13T03:04:31.000Z"
+      },
+      {
+        "name": "Ajuntament de la Seu",
+        "username": "ajlaseu",
+        "id": "80244446",
+        "location": "La Seu d'Urgell",
+        "created_at": "2009-10-06T07:37:33.000Z"
+      },
+      {
+        "name": "®️amón 〽️uñoz Álvarez",
+        "username": "RM_Alvarez82",
+        "id": "154165427",
+        "location": "España",
+        "created_at": "2010-06-10T15:03:42.000Z"
+      },
+      {
+        "name": "Eli",
+        "username": "ElisonSantiago",
+        "id": "597484347",
+        "location": "Madrid",
+        "created_at": "2012-06-02T13:16:12.000Z"
+      },
+      {
+        "name": "Javier_Prandez 🇺🇦",
+        "username": "prandez",
+        "id": "120047326",
+        "location": "Murcia, Spain",
+        "created_at": "2010-03-05T09:32:07.000Z"
+      },
+      {
+        "name": "NotAllCatsAreNice.",
+        "username": "Section096",
+        "id": "381002830",
+        "location": "Urithiru",
+        "created_at": "2011-09-27T15:52:13.000Z"
+      },
+      {
+        "name": "Emilio Parrera",
+        "username": "el_milioparre",
+        "id": "840434599",
+        "location": "Madrid",
+        "created_at": "2012-09-22T20:53:59.000Z"
+      },
+      {
+        "name": "Global Witness ♏⚠",
+        "username": "FakeWelt",
+        "id": "851394863564288001",
+        "location": "Gijon. Spain",
+        "created_at": "2017-04-10T11:22:08.000Z"
+      },
+      {
+        "name": "Angel Montero Luis",
+        "username": "Monthy_A",
+        "id": "357411717",
+        "location": "Madrid",
+        "created_at": "2011-08-18T09:51:40.000Z"
+      },
+      {
+        "name": "DTL",
+        "username": "T_U_N_I_N_G_MAN",
+        "id": "362494015",
+        "location": "Comunidade Valenciana, Espanha",
+        "created_at": "2011-08-26T14:00:54.000Z"
+      },
+      {
+        "name": "Isma Muñoz",
+        "username": "ismacercedilla",
+        "id": "2716836146",
+        "created_at": "2014-08-08T10:42:55.000Z"
+      },
+      {
+        "name": "Jorge_Lana",
+        "username": "Jorge_lana",
+        "id": "95997640",
+        "created_at": "2009-12-10T22:22:20.000Z"
+      },
+      {
+        "name": "Jose L. Estévez 📽",
+        "username": "JLEstevezLopez",
+        "id": "203254184",
+        "location": "Madrid/Almería",
+        "created_at": "2010-10-15T21:44:23.000Z"
+      },
+      {
+        "name": "Virginia Olmedo",
+        "username": "VirginiaOlmedo",
+        "id": "158072192",
+        "location": "Madrid, España",
+        "created_at": "2010-06-21T18:10:37.000Z"
+      },
+      {
+        "name": "George Is Different",
+        "username": "jovebl",
+        "id": "286066041",
+        "location": "Cerdanyola del Valles (BCN)",
+        "created_at": "2011-04-22T08:37:23.000Z"
+      },
+      {
+        "name": "Axis",
+        "username": "fisiocerceda",
+        "id": "516846606",
+        "location": "Cerceda, Madrid.",
+        "created_at": "2012-03-06T20:11:13.000Z"
+      },
+      {
+        "name": "Marina Bruguera",
+        "username": "PinolBruguera",
+        "id": "1057536879258730497",
+        "location": "La Garriga, España",
+        "created_at": "2018-10-31T07:36:54.000Z"
+      },
+      {
+        "name": "Jordi Gomara Pérez",
+        "username": "jordigomara",
+        "id": "12996382",
+        "location": "Granollers, Spain",
+        "created_at": "2008-02-03T01:18:56.000Z"
+      },
+      {
+        "name": "Dicaluc",
+        "username": "Dicaluc",
+        "id": "315398627",
+        "location": "Torremolinos, Spain",
+        "created_at": "2011-06-11T20:10:18.000Z"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1237340121244078080",
+    "oldest_id": "1237178743694807042",
+    "result_count": 67
+  }
+}
